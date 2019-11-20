@@ -89,7 +89,7 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://yoursite.com/2019/11/18/hello-world/" data-id="ck37a1xtr0000yklfcykq49kw"
+      <a data-url="http://yoursite.com/2019/11/18/hello-world/" data-id="ck37drrir0000wolf816cfd8u"
          class="article-share-link">分享</a>
       
     </footer>
@@ -117,6 +117,26 @@
 
   
     
+  <div class="gitalk" id="gitalk-container"></div>
+  <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+  <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+  <script src="https://cdn.bootcss.com/blueimp-md5/2.10.0/js/md5.min.js"></script>
+  <script type="text/javascript">
+    var gitalk = new Gitalk({
+      clientID: 'e5e0d8021c390925f8cd',
+      clientSecret: '24a40ea37a4dcbfbcd78c897a298b4e8d3dfc261',
+      repo: 'gitalk3103',
+      owner: 'shichan3103',
+      admin: ['shichan3103'],
+      // id: location.pathname,      // Ensure uniqueness and length less than 50
+      id: md5(location.pathname),
+      distractionFreeMode: false,  // Facebook-like distraction free mode
+      pagerDirection: 'last'
+    })
+
+  gitalk.render('gitalk-container')
+  </script>
+
   
 
 </article>
@@ -258,10 +278,8 @@
 
 
   
-
 	<script type="text/javascript"
-	opacity='0.5' zIndex="-2" count="60" src="/js/cursor/canvas.js"></script>
-
+	opacity='0.3' zIndex="-2" count="60" src="/js/cursor/canvas.js"></script>
   
 <script src="/live2dw/lib/L2Dwidget.min.js?094cbace49a39548bed64abff5988b05"></script><script>L2Dwidget.init({"pluginRootPath":"live2dw/","pluginJsPath":"lib/","pluginModelPath":"assets/ Relative)","tagMode":false,"log":false,"model":{"jsonPath":"/live2dw/assets/koharu.model.json"},"display":{"position":"left","width":150,"height":240},"mobile":{"show":false},"react":{"opacityDefault":0.7}});</script></body>
 </html>
