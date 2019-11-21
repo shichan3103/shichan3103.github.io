@@ -3,39 +3,50 @@
   <entry>
     <title>小白也会的博客搭建:写作技巧篇</title>
     <url>/2019/11/21/%E5%B0%8F%E7%99%BD%E4%B9%9F%E4%BC%9A%E7%9A%84%E5%8D%9A%E5%AE%A2%E5%88%9B%E5%BB%BA%E4%B9%8B%E5%86%99%E4%BD%9C%E6%8A%80%E5%B7%A7%E7%AF%87/</url>
-    <content><![CDATA[<p>​        换好了美美的主题，心里还是有些小得意的。可坐在电脑前傻傻地 <del>玩弄</del> 欣赏半个小时看板娘之后，心里还是不免有些空落落的。毕竟主题什么的只是浮华，为了让自己的博客不只是“心血来潮”，把自己想写的东西写进去才是真正重要的事。</p>
+    <content><![CDATA[<p>​		换好了美美的主题，心里还是有些小得意的。可坐在电脑前傻傻地 <s>玩弄</s> 欣赏半个小时看板娘之后，心里还是不免有些空落落的。毕竟主题什么的只是浮华，为了让自己的博客不只是“心血来潮”，把自己想写的东西写进去才是真正重要的事。</p>
 <a id="more"></a>
-
-<h2 id="一、开始"><a href="#一、开始" class="headerlink" title="一、开始"></a>一、开始</h2><ul>
-<li><p>首先我们还是介绍一下本文的主要参考资料：</p>
+<h2 id="一-开始"><a class="header-anchor" href="#一-开始">¶</a>一、开始</h2>
+<ul>
+<li>
+<p>首先我们还是介绍一下本文的主要参考资料：</p>
 <blockquote>
 <p>第一个当然是@ yearito 大大的 <a href="http://yearito.cn/posts/hexo-writing-skills.html" target="_blank" rel="noopener">教科书般的教程</a> 啦。</p>
 <p>第二是 <a href="https://hexo.io/zh-cn/docs/writing" target="_blank" rel="noopener">Heox的官方文档</a> 。</p>
 <p>最后是大家都熟悉的 <a href="https://www.runoob.com/markdown/md-tutorial.html" target="_blank" rel="noopener">菜鸟教程</a>。</p>
 </blockquote>
 </li>
-<li><p>工作目录简介</p>
-<p>​        很多小可爱应该和我一样，看着自己搭好的博客一头雾水——这在哪写自己的博文呐！为了解决这一疑惑，我们现在来介绍一下工作空间文件夹的目录。</p>
+<li>
+<p>工作目录简介</p>
+<p>​		很多小可爱应该和我一样，看着自己搭好的博客一头雾水——这在哪写自己的博文呐！为了解决这一疑惑，我们现在来介绍一下工作空间文件夹的目录。</p>
 <blockquote>
 <p>blogsWorkSpace：这是我们开始创建的工作空间（名字是自己起的）</p>
 <blockquote>
-<p>public：[^三连] 或者 [^二连] 生成的缓存文件（<code>$ hexo clean</code>是删除<code>$ hexo g</code>是生成）。</p>
-<p>[^三连]: $ hexo clean , $ hexo g , $ hexo d<br>[^二连]: $ hexo clean , $ hexo g</p>
+<p>public：<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup> 或者 <sup class="footnote-ref"><a href="#fn2" id="fnref2">[2]</a></sup> 生成的缓存文件（<code>$ hexo clean</code>是删除<code>$ hexo g</code>是生成）。</p>
 <p>source：页面和博文存放的地方。</p>
 <blockquote>
-<p>_posts：！！看到没有你的博文写在这里面！！</p>
+<p>_posts： <font color=red>！！看到没有你的博文写在这里面！！</font></p>
 <p>_drafts：存放草稿的地方</p>
 <p>其他：存放各个页面，如about就是存放关于页面，categories就是分类页面。</p>
 </blockquote>
 <p>themes：主题存放的地方。</p>
 <p>_config.yml ：这个是博客的主配置文件。</p>
-<p>工作空间的其他目录不做介绍，<del>一定不是因为我也不知道是干嘛的</del>。</p>
+<p>工作空间的其他目录不做介绍，<s>一定不是因为我也不知道是干嘛的</s>。</p>
 </blockquote>
 </blockquote>
 </li>
-<li><p>git代码简介</p>
+<li>
+<p>git代码简介</p>
 </li>
 </ul>
+<hr class="footnotes-sep">
+<section class="footnotes">
+<ol class="footnotes-list">
+<li id="fn1"  class="footnote-item"><p>$ hexo clean , $ hexo g , $ hexo d <a href="#fnref1" class="footnote-backref">↩</a></p>
+</li>
+<li id="fn2"  class="footnote-item"><p>$ hexo clean , $ hexo g <a href="#fnref2" class="footnote-backref">↩</a></p>
+</li>
+</ol>
+</section>
 ]]></content>
       <categories>
         <category>技术篇</category>
