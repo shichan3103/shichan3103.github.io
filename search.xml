@@ -19,7 +19,7 @@
 <blockquote>
 <p>blogsWorkSpace：这是我们开始创建的工作空间（名字是自己起的）</p>
 <blockquote>
-<p>public：[^三连] 或者 [^二连] 生成的缓存文件（<kbd>$ hexo clean</kbd>是删除<kbd>$ hexo g</kbd>是生成）。</p>
+<p>public：[^三连] 或者 [^二连] 生成的缓存文件（<code>$ hexo clean</code>是删除<code>$ hexo g</code>是生成）。</p>
 <p>[^三连]: $ hexo clean , $ hexo g , $ hexo d<br>[^二连]: $ hexo clean , $ hexo g</p>
 <p>source：页面和博文存放的地方。</p>
 <blockquote>
