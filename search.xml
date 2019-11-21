@@ -82,7 +82,7 @@
 <p>        所以我们可以通过查询 Markdown 的教程来学习博客的编写方式，但要注意的是有少数 Markdown 的功能在博客中是无效的，后面我会把我发现的功能一一列出。</p>
 <h3>2、.md 结构介绍</h3>
 <p>        用记事本打开 .md 文件如下图（ 我用的记事本是Editplus，大家没有的可以先用普通记事本，后面我会给大家介绍编写博客的工具）：.md 文件由两部分构成——Front-matter 部分，下面不知道叫什么部分。</p>
-<p><img src="/.com//C:%5CUsers%5Cchuyu%5CDesktop%5Cmd%E6%96%87%E4%BB%B6%E7%A4%BA%E4%BE%8B%E5%9B%BE.png" alt></p>
+<p><img src="/2019/11/21/%E5%B0%8F%E7%99%BD%E4%B9%9F%E4%BC%9A%E7%9A%84%E5%8D%9A%E5%AE%A2%E5%88%9B%E5%BB%BA%E4%B9%8B%E5%86%99%E4%BD%9C%E6%8A%80%E5%B7%A7%E7%AF%87/C:%5CUsers%5Cchuyu%5CDesktop%5Cmd%E6%96%87%E4%BB%B6%E7%A4%BA%E4%BE%8B%E5%9B%BE.png" alt></p>
 <h4>a、Front-matter 部分</h4>
 <p>        上两个 <code>---</code> 分隔的区域就是 Front-matter 部分，可以把它看做是文章的配置部分， 以下是预先定义的参数，我们可以在这个部分中使用这些参数值并加以利用。</p>
 <table>
@@ -176,46 +176,46 @@
 <tbody>
 <tr>
 <td>n级标题</td>
-<td><img src="/images/duanluo1.png" alt></td>
+<td><img src="/2019/11/21/%E5%B0%8F%E7%99%BD%E4%B9%9F%E4%BC%9A%E7%9A%84%E5%8D%9A%E5%AE%A2%E5%88%9B%E5%BB%BA%E4%B9%8B%E5%86%99%E4%BD%9C%E6%8A%80%E5%B7%A7%E7%AF%87/duanluo1.png" alt></td>
 <td>软件段落菜单的前六个</td>
 <td><code>Ctrl</code>+<code>数字</code></td>
 <td>生成</td>
 </tr>
 <tr>
 <td>分割线</td>
-<td><img src="/images/duanluo2.png" alt></td>
+<td><img src="/2019/11/21/%E5%B0%8F%E7%99%BD%E4%B9%9F%E4%BC%9A%E7%9A%84%E5%8D%9A%E5%AE%A2%E5%88%9B%E5%BB%BA%E4%B9%8B%E5%86%99%E4%BD%9C%E6%8A%80%E5%B7%A7%E7%AF%87/duanluo2.png" alt></td>
 <td>输入<code>*****</code></td>
 <td></td>
 <td>不生成</td>
 </tr>
 <tr>
 <td>黑点</td>
-<td><img src="/images/duanluo3.png" alt></td>
+<td><img src="/2019/11/21/%E5%B0%8F%E7%99%BD%E4%B9%9F%E4%BC%9A%E7%9A%84%E5%8D%9A%E5%AE%A2%E5%88%9B%E5%BB%BA%E4%B9%8B%E5%86%99%E4%BD%9C%E6%8A%80%E5%B7%A7%E7%AF%87/duanluo3.png" alt></td>
 <td>本行开始输入 <code>*</code> 加空格(可嵌套使用)</td>
 <td></td>
 <td>不生成</td>
 </tr>
 <tr>
 <td>区块列表</td>
-<td><img src="/images/duanluo4.png" alt></td>
+<td><img src="/2019/11/21/%E5%B0%8F%E7%99%BD%E4%B9%9F%E4%BC%9A%E7%9A%84%E5%8D%9A%E5%AE%A2%E5%88%9B%E5%BB%BA%E4%B9%8B%E5%86%99%E4%BD%9C%E6%8A%80%E5%B7%A7%E7%AF%87/duanluo4.png" alt></td>
 <td>本行开始输入 <code>&gt;</code> 加空格(可嵌套使用)</td>
 <td></td>
 <td>不生成</td>
 </tr>
 <tr>
 <td>首行缩进</td>
-<td><img src="/images/duanluo5.png" alt></td>
+<td><img src="/2019/11/21/%E5%B0%8F%E7%99%BD%E4%B9%9F%E4%BC%9A%E7%9A%84%E5%8D%9A%E5%AE%A2%E5%88%9B%E5%BB%BA%E4%B9%8B%E5%86%99%E4%BD%9C%E6%8A%80%E5%B7%A7%E7%AF%87/duanluo5.png" alt></td>
 <td>首行缩进不能用空格，要用若干个 <code>&amp;nbsp;</code>代替空格实现</td>
 <td></td>
 <td>不生成</td>
 </tr>
 </tbody>
 </table>
-<h3>2、文字</h3>
+<h3>2、文字和图片</h3>
 <ul>
 <li>代码</li>
 </ul>
-<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">font</span> <span class="attr">face</span>=<span class="string">"微软雅黑"</span>&gt;</span>我是微软雅黑<span class="tag">&lt;/<span class="name">font</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">font</span> <span class="attr">face</span>=<span class="string">"STCAIYUN"</span>&gt;</span>我是华文彩云<span class="tag">&lt;/<span class="name">font</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">font</span> <span class="attr">color</span>=<span class="string">red</span>&gt;</span>我是红色<span class="tag">&lt;/<span class="name">font</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">font</span> <span class="attr">size</span>=<span class="string">7</span>&gt;</span>我是7尺寸<span class="tag">&lt;/<span class="name">font</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">font</span> <span class="attr">face</span>=<span class="string">"黑体"</span> <span class="attr">color</span>=<span class="string">green</span> <span class="attr">size</span>=<span class="string">5</span>&gt;</span>我是黑体，绿色，尺寸为5<span class="tag">&lt;/<span class="name">font</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">table</span>&gt;</span><span class="tag">&lt;<span class="name">tr</span>&gt;</span><span class="tag">&lt;<span class="name">td</span> <span class="attr">bgcolor</span>=<span class="string">yellow</span>&gt;</span>我有背景颜色<span class="tag">&lt;/<span class="name">td</span>&gt;</span><span class="tag">&lt;/<span class="name">tr</span>&gt;</span><span class="tag">&lt;/<span class="name">table</span>&gt;</span></span><br></pre></td></tr></table></figure>
+<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">font</span> <span class="attr">face</span>=<span class="string">"微软雅黑"</span>&gt;</span>我是微软雅黑<span class="tag">&lt;/<span class="name">font</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">font</span> <span class="attr">face</span>=<span class="string">"STCAIYUN"</span>&gt;</span>我是华文彩云<span class="tag">&lt;/<span class="name">font</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">font</span> <span class="attr">color</span>=<span class="string">red</span>&gt;</span>我是红色<span class="tag">&lt;/<span class="name">font</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">font</span> <span class="attr">size</span>=<span class="string">7</span>&gt;</span>我是7尺寸<span class="tag">&lt;/<span class="name">font</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">font</span> <span class="attr">face</span>=<span class="string">"黑体"</span> <span class="attr">color</span>=<span class="string">green</span> <span class="attr">size</span>=<span class="string">5</span>&gt;</span>我是黑体，绿色，尺寸为5<span class="tag">&lt;/<span class="name">font</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">table</span>&gt;</span><span class="tag">&lt;<span class="name">tr</span>&gt;</span><span class="tag">&lt;<span class="name">td</span> <span class="attr">bgcolor</span>=<span class="string">yellow</span>&gt;</span>我有背景颜色<span class="tag">&lt;/<span class="name">td</span>&gt;</span><span class="tag">&lt;/<span class="name">tr</span>&gt;</span><span class="tag">&lt;/<span class="name">table</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">img</span> <span class="attr">src</span>=<span class="string">"http://pic11.photophoto.cn/20090626/0036036341009653_b.jpg"</span> <span class="attr">width</span>=<span class="string">"20%"</span> <span class="attr">height</span>=<span class="string">"20%"</span>&gt;</span></span><br></pre></td></tr></table></figure>
 <ul>
 <li>样式</li>
 </ul>
@@ -226,6 +226,7 @@
 <font size="7">我是7尺寸</font><br>
 <font face="黑体" color="green" size="5">我是黑体，绿色，尺寸为5</font></p>
 <table><tr><td bgcolor="yellow">我有背景颜色</td></tr></table>
+<img src="http://pic11.photophoto.cn/20090626/0036036341009653_b.jpg" width="20%" height="20%">
 </blockquote>
 <div id="footnotes"><hr><div id="footnotelist"><ol style="list-style:none; padding-left: 0;"><li id="fn:1"><span style="display: inline-block; vertical-align: top; padding-right: 10px;">1.</span><span style="display: inline-block; vertical-align: top;">$ hexo clean , $ hexo g , $ hexo d</span><a href="#fnref:1" rev="footnote"> ↩</a></li><li id="fn:2"><span style="display: inline-block; vertical-align: top; padding-right: 10px;">2.</span><span style="display: inline-block; vertical-align: top;">$ hexo clean , $ hexo g</span><a href="#fnref:2" rev="footnote"> ↩</a></li></ol></div></div>]]></content>
       <categories>
