@@ -1,18 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>工具：颜色名列表</title>
+    <url>/2019/11/22/%E5%B7%A5%E5%85%B7%EF%BC%9A%E9%A2%9C%E8%89%B2%E5%90%8D%E5%88%97%E8%A1%A8/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>本文 <strong>转载</strong>自 <a href="http://blog.csdn.net/testcs_dn/article/details/45719357/#comments" target="_blank" rel="noopener">CSDN-markdown编辑器语法——字体、字号与颜色</a> 的颜色列表 。</p>
+<a id="more"></a>
+<h2 id="颜色名列表">颜色名列表</h2>
+<table><tbody><tr><th>颜色名</th><th>十六进制颜色值</th><th>颜色</th></tr><tr><td><font color="AliceBlue">AliceBlue</font></td><td><font color="#F0F8FF">#F0F8FF</font></td><td bgcolor="#F0F8FF">rgb(240, 248, 255)</td></tr><tr><td><font color="AntiqueWhite">AntiqueWhite</font></td><td><font color="#FAEBD7">#FAEBD7</font></td><td bgcolor="#FAEBD7">rgb(250, 235, 215)</td></tr><tr><td><font color="Aqua">Aqua</font></td><td><font color="#00FFFF">#00FFFF</font></td><td bgcolor="#00FFFF">rgb(0, 255, 255)</td></tr><tr><td><font color="Aquamarine">Aquamarine</font></td><td><font color="#7FFFD4">#7FFFD4</font></td><td bgcolor="#7FFFD4">rgb(127, 255, 212)</td></tr><tr><td><font color="Azure">Azure</font></td><td><font color="#F0FFFF">#F0FFFF</font></td><td bgcolor="#F0FFFF">rgb(240, 255, 255)</td></tr><tr><td><font color="Beige">Beige</font></td><td><font color="#F5F5DC">#F5F5DC</font></td><td bgcolor="#F5F5DC">rgb(245, 245, 220)</td></tr><tr><td><font color="Bisque">Bisque</font></td><td><font color="#FFE4C4">#FFE4C4</font></td><td bgcolor="#FFE4C4">rgb(255, 228, 196)</td></tr><tr><td><font color="Black">Black</font></td><td><font color="#000000">#000000</font></td><td bgcolor="#000000">rgb(0, 0, 0)</td></tr><tr><td><font color="BlanchedAlmond">BlanchedAlmond</font></td><td><font color="#FFEBCD">#FFEBCD</font></td><td bgcolor="#FFEBCD">rgb(255, 235, 205)</td></tr><tr><td><font color="Blue">Blue</font></td><td><font color="#0000FF">#0000FF</font></td><td bgcolor="#0000FF">rgb(0, 0, 255)</td></tr><tr><td><font color="BlueViolet">BlueViolet</font></td><td><font color="#8A2BE2">#8A2BE2</font></td><td bgcolor="#8A2BE2">rgb(138, 43, 226)</td></tr><tr><td><font color="Brown">Brown</font></td><td><font color="#A52A2A">#A52A2A</font></td><td bgcolor="#A52A2A">rgb(165, 42, 42)</td></tr><tr><td><font color="BurlyWood">BurlyWood</font></td><td><font color="#DEB887">#DEB887</font></td><td bgcolor="#DEB887">rgb(222, 184, 135)</td></tr><tr><td><font color="CadetBlue">CadetBlue</font></td><td><font color="#5F9EA0">#5F9EA0</font></td><td bgcolor="#5F9EA0">rgb(95, 158, 160)</td></tr><tr><td><font color="Chartreuse">Chartreuse</font></td><td><font color="#7FFF00">#7FFF00</font></td><td bgcolor="#7FFF00">rgb(127, 255, 0)</td></tr><tr><td><font color="Chocolate">Chocolate</font></td><td><font color="#D2691E">#D2691E</font></td><td bgcolor="#D2691E">rgb(210, 105, 30)</td></tr><tr><td><font color="Coral">Coral</font></td><td><font color="#FF7F50">#FF7F50</font></td><td bgcolor="#FF7F50">rgb(255, 127, 80)</td></tr><tr><td><font color="CornflowerBlue">CornflowerBlue</font></td><td><font color="#6495ED">#6495ED</font></td><td bgcolor="#6495ED">rgb(100, 149, 237)</td></tr><tr><td><font color="Cornsilk">Cornsilk</font></td><td><font color="#FFF8DC">#FFF8DC</font></td><td bgcolor="#FFF8DC">rgb(255, 248, 220)</td></tr><tr><td><font color="Crimson">Crimson</font></td><td><font color="#DC143C">#DC143C</font></td><td bgcolor="#DC143C">rgb(220, 20, 60)</td></tr><tr><td><font color="Cyan">Cyan</font></td><td><font color="#00FFFF">#00FFFF</font></td><td bgcolor="#00FFFF">rgb(0, 255, 255)</td></tr><tr><td><font color="DarkBlue">DarkBlue</font></td><td><font color="#00008B">#00008B</font></td><td bgcolor="#00008B">rgb(0, 0, 139)</td></tr><tr><td><font color="DarkCyan">DarkCyan</font></td><td><font color="#008B8B">#008B8B</font></td><td bgcolor="#008B8B">rgb(0, 139, 139)</td></tr><tr><td><font color="DarkGoldenRod">DarkGoldenRod</font></td><td><font color="#B8860B">#B8860B</font></td><td bgcolor="#B8860B">rgb(184, 134, 11)</td></tr><tr><td><font color="DarkGray">DarkGray</font></td><td><font color="#A9A9A9">#A9A9A9</font></td><td bgcolor="#A9A9A9">rgb(169, 169, 169)</td></tr><tr><td><font color="DarkGreen">DarkGreen</font></td><td><font color="#006400">#006400</font></td><td bgcolor="#006400">rgb(0, 100, 0)</td></tr><tr><td><font color="DarkKhaki">DarkKhaki</font></td><td><font color="#BDB76B">#BDB76B</font></td><td bgcolor="#BDB76B">rgb(189, 183, 107)</td></tr><tr><td><font color="DarkMagenta">DarkMagenta</font></td><td><font color="#8B008B">#8B008B</font></td><td bgcolor="#8B008B">rgb(139, 0, 139)</td></tr><tr><td><font color="DarkOliveGreen">DarkOliveGreen</font></td><td><font color="#556B2F">#556B2F</font></td><td bgcolor="#556B2F">rgb(85, 107, 47)</td></tr><tr><td><font color="Darkorange">Darkorange</font></td><td><font color="#FF8C00">#FF8C00</font></td><td bgcolor="#FF8C00">rgb(255, 140, 0)</td></tr><tr><td><font color="DarkOrchid">DarkOrchid</font></td><td><font color="#9932CC">#9932CC</font></td><td bgcolor="#9932CC">rgb(153, 50, 204)</td></tr><tr><td><font color="DarkRed">DarkRed</font></td><td><font color="#8B0000">#8B0000</font></td><td bgcolor="#8B0000">rgb(139, 0, 0)</td></tr><tr><td><font color="DarkSalmon">DarkSalmon</font></td><td><font color="#E9967A">#E9967A</font></td><td bgcolor="#E9967A">rgb(233, 150, 122)</td></tr><tr><td><font color="DarkSeaGreen">DarkSeaGreen</font></td><td><font color="#8FBC8F">#8FBC8F</font></td><td bgcolor="#8FBC8F">rgb(143, 188, 143)</td></tr><tr><td><font color="DarkSlateBlue">DarkSlateBlue</font></td><td><font color="#483D8B">#483D8B</font></td><td bgcolor="#483D8B">rgb(72, 61, 139)</td></tr><tr><td><font color="DarkSlateGray">DarkSlateGray</font></td><td><font color="#2F4F4F">#2F4F4F</font></td><td bgcolor="#2F4F4F">rgb(47, 79, 79)</td></tr><tr><td><font color="DarkTurquoise">DarkTurquoise</font></td><td><font color="#00CED1">#00CED1</font></td><td bgcolor="#00CED1">rgb(0, 206, 209)</td></tr><tr><td><font color="DarkViolet">DarkViolet</font></td><td><font color="#9400D3">#9400D3</font></td><td bgcolor="#9400D3">rgb(148, 0, 211)</td></tr><tr><td><font color="DeepPink">DeepPink</font></td><td><font color="#FF1493">#FF1493</font></td><td bgcolor="#FF1493">rgb(255, 20, 147)</td></tr><tr><td><font color="DeepSkyBlue">DeepSkyBlue</font></td><td><font color="#00BFFF">#00BFFF</font></td><td bgcolor="#00BFFF">rgb(0, 191, 255)</td></tr><tr><td><font color="DimGray">DimGray</font></td><td><font color="#696969">#696969</font></td><td bgcolor="#696969">rgb(105, 105, 105)</td></tr><tr><td><font color="DodgerBlue">DodgerBlue</font></td><td><font color="#1E90FF">#1E90FF</font></td><td bgcolor="#1E90FF">rgb(30, 144, 255)</td></tr><tr><td><font color="Feldspar">Feldspar</font></td><td><font color="#D19275">#D19275</font></td><td bgcolor="#D19275">rgb(209, 146, 117)</td></tr><tr><td><font color="FireBrick">FireBrick</font></td><td><font color="#B22222">#B22222</font></td><td bgcolor="#B22222">rgb(178, 34, 34)</td></tr><tr><td><font color="FloralWhite">FloralWhite</font></td><td><font color="#FFFAF0">#FFFAF0</font></td><td bgcolor="#FFFAF0">rgb(255, 250, 240)</td></tr><tr><td><font color="ForestGreen">ForestGreen</font></td><td><font color="#228B22">#228B22</font></td><td bgcolor="#228B22">rgb(34, 139, 34)</td></tr><tr><td><font color="Fuchsia">Fuchsia</font></td><td><font color="#FF00FF">#FF00FF</font></td><td bgcolor="#FF00FF">rgb(255, 0, 255)</td></tr><tr><td><font color="Gainsboro">Gainsboro</font></td><td><font color="#DCDCDC">#DCDCDC</font></td><td bgcolor="#DCDCDC">rgb(220, 220, 220)</td></tr><tr><td><font color="GhostWhite">GhostWhite</font></td><td><font color="#F8F8FF">#F8F8FF</font></td><td bgcolor="#F8F8FF">rgb(248, 248, 255)</td></tr><tr><td><font color="Gold">Gold</font></td><td><font color="#FFD700">#FFD700</font></td><td bgcolor="#FFD700">rgb(255, 215, 0)</td></tr><tr><td><font color="GoldenRod">GoldenRod</font></td><td><font color="#DAA520">#DAA520</font></td><td bgcolor="#DAA520">rgb(218, 165, 32)</td></tr><tr><td><font color="Gray">Gray</font></td><td><font color="#808080">#808080</font></td><td bgcolor="#808080">rgb(128, 128, 128)</td></tr><tr><td><font color="Green">Green</font></td><td><font color="#008000">#008000</font></td><td bgcolor="#008000">rgb(0, 128, 0)</td></tr><tr><td><font color="GreenYellow">GreenYellow</font></td><td><font color="#ADFF2F">#ADFF2F</font></td><td bgcolor="#ADFF2F">rgb(173, 255, 47)</td></tr><tr><td><font color="HoneyDew">HoneyDew</font></td><td><font color="#F0FFF0">#F0FFF0</font></td><td bgcolor="#F0FFF0">rgb(240, 255, 240)</td></tr><tr><td><font color="HotPink">HotPink</font></td><td><font color="#FF69B4">#FF69B4</font></td><td bgcolor="#FF69B4">rgb(255, 105, 180)</td></tr><tr><td><font color="IndianRed">IndianRed</font></td><td><font color="#CD5C5C">#CD5C5C</font></td><td bgcolor="#CD5C5C">rgb(205, 92, 92)</td></tr><tr><td><font color="Indigo">Indigo</font></td><td><font color="#4B0082">#4B0082</font></td><td bgcolor="#4B0082">rgb(75, 0, 130)</td></tr><tr><td><font color="Ivory">Ivory</font></td><td><font color="#FFFFF0">#FFFFF0</font></td><td bgcolor="#FFFFF0">rgb(255, 255, 240)</td></tr><tr><td><font color="Khaki">Khaki</font></td><td><font color="#F0E68C">#F0E68C</font></td><td bgcolor="#F0E68C">rgb(240, 230, 140)</td></tr><tr><td><font color="Lavender">Lavender</font></td><td><font color="#E6E6FA">#E6E6FA</font></td><td bgcolor="#E6E6FA">rgb(230, 230, 250)</td></tr><tr><td><font color="LavenderBlush">LavenderBlush</font></td><td><font color="#FFF0F5">#FFF0F5</font></td><td bgcolor="#FFF0F5">rgb(255, 240, 245)</td></tr><tr><td><font color="LawnGreen">LawnGreen</font></td><td><font color="#7CFC00">#7CFC00</font></td><td bgcolor="#7CFC00">rgb(124, 252, 0)</td></tr><tr><td><font color="LemonChiffon">LemonChiffon</font></td><td><font color="#FFFACD">#FFFACD</font></td><td bgcolor="#FFFACD">rgb(255, 250, 205)</td></tr><tr><td><font color="LightBlue">LightBlue</font></td><td><font color="#ADD8E6">#ADD8E6</font></td><td bgcolor="#ADD8E6">rgb(173, 216, 230)</td></tr><tr><td><font color="LightCoral">LightCoral</font></td><td><font color="#F08080">#F08080</font></td><td bgcolor="#F08080">rgb(240, 128, 128)</td></tr><tr><td><font color="LightCyan">LightCyan</font></td><td><font color="#E0FFFF">#E0FFFF</font></td><td bgcolor="#E0FFFF">rgb(224, 255, 255)</td></tr><tr><td><font color="LightGoldenRodYellow">LightGoldenRodYellow</font></td><td><font color="#FAFAD2">#FAFAD2</font></td><td bgcolor="#FAFAD2">rgb(250, 250, 210)</td></tr><tr><td><font color="LightGrey">LightGrey</font></td><td><font color="#D3D3D3">#D3D3D3</font></td><td bgcolor="#D3D3D3">rgb(211, 211, 211)</td></tr><tr><td><font color="LightGreen">LightGreen</font></td><td><font color="#90EE90">#90EE90</font></td><td bgcolor="#90EE90">rgb(144, 238, 144)</td></tr><tr><td><font color="LightPink">LightPink</font></td><td><font color="#FFB6C1">#FFB6C1</font></td><td bgcolor="#FFB6C1">rgb(255, 182, 193)</td></tr><tr><td><font color="LightSalmon">LightSalmon</font></td><td><font color="#FFA07A">#FFA07A</font></td><td bgcolor="#FFA07A">rgb(255, 160, 122)</td></tr><tr><td><font color="LightSeaGreen">LightSeaGreen</font></td><td><font color="#20B2AA">#20B2AA</font></td><td bgcolor="#20B2AA">rgb(32, 178, 170)</td></tr><tr><td><font color="LightSkyBlue">LightSkyBlue</font></td><td><font color="#87CEFA">#87CEFA</font></td><td bgcolor="#87CEFA">rgb(135, 206, 250)</td></tr><tr><td><font color="LightSlateBlue">LightSlateBlue</font></td><td><font color="#8470FF">#8470FF</font></td><td bgcolor="#8470FF">rgb(132, 112, 255)</td></tr><tr><td><font color="LightSlateGray">LightSlateGray</font></td><td><font color="#778899">#778899</font></td><td bgcolor="#778899">rgb(119, 136, 153)</td></tr><tr><td><font color="LightSteelBlue">LightSteelBlue</font></td><td><font color="#B0C4DE">#B0C4DE</font></td><td bgcolor="#B0C4DE">rgb(176, 196, 222)</td></tr><tr><td><font color="LightYellow">LightYellow</font></td><td><font color="#FFFFE0">#FFFFE0</font></td><td bgcolor="#FFFFE0">rgb(255, 255, 224)</td></tr><tr><td><font color="Lime">Lime</font></td><td><font color="#00FF00">#00FF00</font></td><td bgcolor="#00FF00">rgb(0, 255, 0)</td></tr><tr><td><font color="LimeGreen">LimeGreen</font></td><td><font color="#32CD32">#32CD32</font></td><td bgcolor="#32CD32">rgb(50, 205, 50)</td></tr><tr><td><font color="Linen">Linen</font></td><td><font color="#FAF0E6">#FAF0E6</font></td><td bgcolor="#FAF0E6">rgb(250, 240, 230)</td></tr><tr><td><font color="Magenta">Magenta</font></td><td><font color="#FF00FF">#FF00FF</font></td><td bgcolor="#FF00FF">rgb(255, 0, 255)</td></tr><tr><td><font color="Maroon">Maroon</font></td><td><font color="#800000">#800000</font></td><td bgcolor="#800000">rgb(128, 0, 0)</td></tr><tr><td><font color="MediumAquaMarine">MediumAquaMarine</font></td><td><font color="#66CDAA">#66CDAA</font></td><td bgcolor="#66CDAA">rgb(102, 205, 170)</td></tr><tr><td><font color="MediumBlue">MediumBlue</font></td><td><font color="#0000CD">#0000CD</font></td><td bgcolor="#0000CD">rgb(0, 0, 205)</td></tr><tr><td><font color="MediumOrchid">MediumOrchid</font></td><td><font color="#BA55D3">#BA55D3</font></td><td bgcolor="#BA55D3">rgb(186, 85, 211)</td></tr><tr><td><font color="MediumPurple">MediumPurple</font></td><td><font color="#9370D8">#9370D8</font></td><td bgcolor="#9370D8">rgb(147, 112, 216)</td></tr><tr><td><font color="MediumSeaGreen">MediumSeaGreen</font></td><td><font color="#3CB371">#3CB371</font></td><td bgcolor="#3CB371">rgb(60, 179, 113)</td></tr><tr><td><font color="MediumSlateBlue">MediumSlateBlue</font></td><td><font color="#7B68EE">#7B68EE</font></td><td bgcolor="#7B68EE">rgb(123, 104, 238)</td></tr><tr><td><font color="MediumSpringGreen">MediumSpringGreen</font></td><td><font color="#00FA9A">#00FA9A</font></td><td bgcolor="#00FA9A">rgb(0, 250, 154)</td></tr><tr><td><font color="MediumTurquoise">MediumTurquoise</font></td><td><font color="#48D1CC">#48D1CC</font></td><td bgcolor="#48D1CC">rgb(72, 209, 204)</td></tr><tr><td><font color="MediumVioletRed">MediumVioletRed</font></td><td><font color="#C71585">#C71585</font></td><td bgcolor="#C71585">rgb(199, 21, 133)</td></tr><tr><td><font color="MidnightBlue">MidnightBlue</font></td><td><font color="#191970">#191970</font></td><td bgcolor="#191970">rgb(25, 25, 112)</td></tr><tr><td><font color="MintCream">MintCream</font></td><td><font color="#F5FFFA">#F5FFFA</font></td><td bgcolor="#F5FFFA">rgb(245, 255, 250)</td></tr><tr><td><font color="MistyRose">MistyRose</font></td><td><font color="#FFE4E1">#FFE4E1</font></td><td bgcolor="#FFE4E1">rgb(255, 228, 225)</td></tr><tr><td><font color="Moccasin">Moccasin</font></td><td><font color="#FFE4B5">#FFE4B5</font></td><td bgcolor="#FFE4B5">rgb(255, 228, 181)</td></tr><tr><td><font color="NavajoWhite">NavajoWhite</font></td><td><font color="#FFDEAD">#FFDEAD</font></td><td bgcolor="#FFDEAD">rgb(255, 222, 173)</td></tr><tr><td><font color="Navy">Navy</font></td><td><font color="#000080">#000080</font></td><td bgcolor="#000080">rgb(0, 0, 128)</td></tr><tr><td><font color="OldLace">OldLace</font></td><td><font color="#FDF5E6">#FDF5E6</font></td><td bgcolor="#FDF5E6">rgb(253, 245, 230)</td></tr><tr><td><font color="Olive">Olive</font></td><td><font color="#808000">#808000</font></td><td bgcolor="#808000">rgb(128, 128, 0)</td></tr><tr><td><font color="OliveDrab">OliveDrab</font></td><td><font color="#6B8E23">#6B8E23</font></td><td bgcolor="#6B8E23">rgb(107, 142, 35)</td></tr><tr><td><font color="Orange">Orange</font></td><td><font color="#FFA500">#FFA500</font></td><td bgcolor="#FFA500">rgb(255, 165, 0)</td></tr><tr><td><font color="OrangeRed">OrangeRed</font></td><td><font color="#FF4500">#FF4500</font></td><td bgcolor="#FF4500">rgb(255, 69, 0)</td></tr><tr><td><font color="Orchid">Orchid</font></td><td><font color="#DA70D6">#DA70D6</font></td><td bgcolor="#DA70D6">rgb(218, 112, 214)</td></tr><tr><td><font color="PaleGoldenRod">PaleGoldenRod</font></td><td><font color="#EEE8AA">#EEE8AA</font></td><td bgcolor="#EEE8AA">rgb(238, 232, 170)</td></tr><tr><td><font color="PaleGreen">PaleGreen</font></td><td><font color="#98FB98">#98FB98</font></td><td bgcolor="#98FB98">rgb(152, 251, 152)</td></tr><tr><td><font color="PaleTurquoise">PaleTurquoise</font></td><td><font color="#AFEEEE">#AFEEEE</font></td><td bgcolor="#AFEEEE">rgb(175, 238, 238)</td></tr><tr><td><font color="PaleVioletRed">PaleVioletRed</font></td><td><font color="#D87093">#D87093</font></td><td bgcolor="#D87093">rgb(216, 112, 147)</td></tr><tr><td><font color="PapayaWhip">PapayaWhip</font></td><td><font color="#FFEFD5">#FFEFD5</font></td><td bgcolor="#FFEFD5">rgb(255, 239, 213)</td></tr><tr><td><font color="PeachPuff">PeachPuff</font></td><td><font color="#FFDAB9">#FFDAB9</font></td><td bgcolor="#FFDAB9">rgb(255, 218, 185)</td></tr><tr><td><font color="Peru">Peru</font></td><td><font color="#CD853F">#CD853F</font></td><td bgcolor="#CD853F">rgb(205, 133, 63)</td></tr><tr><td><font color="Pink">Pink</font></td><td><font color="#FFC0CB">#FFC0CB</font></td><td bgcolor="#FFC0CB">rgb(255, 192, 203)</td></tr><tr><td><font color="Plum">Plum</font></td><td><font color="#DDA0DD">#DDA0DD</font></td><td bgcolor="#DDA0DD">rgb(221, 160, 221)</td></tr><tr><td><font color="PowderBlue">PowderBlue</font></td><td><font color="#B0E0E6">#B0E0E6</font></td><td bgcolor="#B0E0E6">rgb(176, 224, 230)</td></tr><tr><td><font color="Purple">Purple</font></td><td><font color="#800080">#800080</font></td><td bgcolor="#800080">rgb(128, 0, 128)</td></tr><tr><td><font color="Red">Red</font></td><td><font color="#FF0000">#FF0000</font></td><td bgcolor="#FF0000">rgb(255, 0, 0)</td></tr><tr><td><font color="RosyBrown">RosyBrown</font></td><td><font color="#BC8F8F">#BC8F8F</font></td><td bgcolor="#BC8F8F">rgb(188, 143, 143)</td></tr><tr><td><font color="RoyalBlue">RoyalBlue</font></td><td><font color="#4169E1">#4169E1</font></td><td bgcolor="#4169E1">rgb(65, 105, 225)</td></tr><tr><td><font color="SaddleBrown">SaddleBrown</font></td><td><font color="#8B4513">#8B4513</font></td><td bgcolor="#8B4513">rgb(139, 69, 19)</td></tr><tr><td><font color="Salmon">Salmon</font></td><td><font color="#FA8072">#FA8072</font></td><td bgcolor="#FA8072">rgb(250, 128, 114)</td></tr><tr><td><font color="SandyBrown">SandyBrown</font></td><td><font color="#F4A460">#F4A460</font></td><td bgcolor="#F4A460">rgb(244, 164, 96)</td></tr><tr><td><font color="SeaGreen">SeaGreen</font></td><td><font color="#2E8B57">#2E8B57</font></td><td bgcolor="#2E8B57">rgb(46, 139, 87)</td></tr><tr><td><font color="SeaShell">SeaShell</font></td><td><font color="#FFF5EE">#FFF5EE</font></td><td bgcolor="#FFF5EE">rgb(255, 245, 238)</td></tr><tr><td><font color="Sienna">Sienna</font></td><td><font color="#A0522D">#A0522D</font></td><td bgcolor="#A0522D">rgb(160, 82, 45)</td></tr><tr><td><font color="Silver">Silver</font></td><td><font color="#C0C0C0">#C0C0C0</font></td><td bgcolor="#C0C0C0">rgb(192, 192, 192)</td></tr><tr><td><font color="SkyBlue">SkyBlue</font></td><td><font color="#87CEEB">#87CEEB</font></td><td bgcolor="#87CEEB">rgb(135, 206, 235)</td></tr><tr><td><font color="SlateBlue">SlateBlue</font></td><td><font color="#6A5ACD">#6A5ACD</font></td><td bgcolor="#6A5ACD">rgb(106, 90, 205)</td></tr><tr><td><font color="SlateGray">SlateGray</font></td><td><font color="#708090">#708090</font></td><td bgcolor="#708090">rgb(112, 128, 144)</td></tr><tr><td><font color="Snow">Snow</font></td><td><font color="#FFFAFA">#FFFAFA</font></td><td bgcolor="#FFFAFA">rgb(255, 250, 250)</td></tr><tr><td><font color="SpringGreen">SpringGreen</font></td><td><font color="#00FF7F">#00FF7F</font></td><td bgcolor="#00FF7F">rgb(0, 255, 127)</td></tr><tr><td><font color="SteelBlue">SteelBlue</font></td><td><font color="#4682B4">#4682B4</font></td><td bgcolor="#4682B4">rgb(70, 130, 180)</td></tr><tr><td><font color="Tan">Tan</font></td><td><font color="#D2B48C">#D2B48C</font></td><td bgcolor="#D2B48C">rgb(210, 180, 140)</td></tr><tr><td><font color="Teal">Teal</font></td><td><font color="#008080">#008080</font></td><td bgcolor="#008080">rgb(0, 128, 128)</td></tr><tr><td><font color="Thistle">Thistle</font></td><td><font color="#D8BFD8">#D8BFD8</font></td><td bgcolor="#D8BFD8">rgb(216, 191, 216)</td></tr><tr><td><font color="Tomato">Tomato</font></td><td><font color="#FF6347">#FF6347</font></td><td bgcolor="#FF6347">rgb(255, 99, 71)</td></tr><tr><td><font color="Turquoise">Turquoise</font></td><td><font color="#40E0D0">#40E0D0</font></td><td bgcolor="#40E0D0">rgb(64, 224, 208)</td></tr><tr><td><font color="Violet">Violet</font></td><td><font color="#EE82EE">#EE82EE</font></td><td bgcolor="#EE82EE">rgb(238, 130, 238)</td></tr><tr><td><font color="VioletRed">VioletRed</font></td><td><font color="#D02090">#D02090</font></td><td bgcolor="#D02090">rgb(208, 32, 144)</td></tr><tr><td><font color="Wheat">Wheat</font></td><td><font color="#F5DEB3">#F5DEB3</font></td><td bgcolor="#F5DEB3">rgb(245, 222, 179)</td></tr><tr><td><font color="White">White</font></td><td><font color="#FFFFFF">#FFFFFF</font></td><td bgcolor="#FFFFFF">rgb(255, 255, 255)</td></tr><tr><td><font color="WhiteSmoke">WhiteSmoke</font></td><td><font color="#F5F5F5">#F5F5F5</font></td><td bgcolor="#F5F5F5">rgb(245, 245, 245)</td></tr><tr><td><font color="Yellow">Yellow</font></td><td><font color="#FFFF00">#FFFF00</font></td><td bgcolor="#FFFF00">rgb(255, 255, 0)</td></tr><tr><td><font color="YellowGreen">YellowGreen</font></td><td><font color="#9ACD32">#9ACD32</font></td><td bgcolor="#9ACD32">rgb(154, 205, 50)</td></tr></tbody></table>]]></content>
+      <categories>
+        <category>工具</category>
+      </categories>
+      <tags>
+        <tag>工具</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>小白也会的博客搭建:写作技巧篇</title>
     <url>/2019/11/21/%E5%B0%8F%E7%99%BD%E4%B9%9F%E4%BC%9A%E7%9A%84%E5%8D%9A%E5%AE%A2%E5%88%9B%E5%BB%BA%E4%B9%8B%E5%86%99%E4%BD%9C%E6%8A%80%E5%B7%A7%E7%AF%87/</url>
-    <content><![CDATA[<p>        换好了美美的主题，心里还是有些小得意的。可坐在电脑前傻傻地 <s>玩弄</s> 欣赏半个小时看板娘之后，心里还是不免有些空落落的。毕竟主题什么的只是浮华，为了让自己的博客不只是“心血来潮”，把自己想写的东西写进去才是真正重要的事。</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>        换好了美美的主题，心里还是有些小得意的。可坐在电脑前傻傻地 <s>玩弄</s> 欣赏半个小时看板娘之后，心里还是不免有些空落落的。毕竟主题什么的只是浮华，为了让自己的博客不只是“心血来潮”，把自己想写的东西写进去才是真正重要的事。</p>
 <a id="more"></a>
-<h2>一、开始</h2>
-<h3>1、首先我们还是介绍一下本文的主要参考资料：</h3>
+<h2 id="一-开始">一、开始</h2>
+<h3 id="1-首先我们还是介绍一下本文的主要参考资料：">1、首先我们还是介绍一下本文的主要参考资料：</h3>
 <blockquote>
 <p>第一个当然是@ yearito 大大的 <a href="http://yearito.cn/posts/hexo-writing-skills.html" target="_blank" rel="noopener">教科书般的教程</a> 啦。</p>
 <p>第二是 <a href="https://hexo.io/zh-cn/docs/writing" target="_blank" rel="noopener">Heox的官方文档</a> 。</p>
 <p>最后是大家都熟悉的 <a href="https://www.runoob.com/markdown/md-tutorial.html" target="_blank" rel="noopener">菜鸟教程</a>。</p>
 </blockquote>
-<h3>2、工作目录简介</h3>
+<h3 id="2-工作目录简介">2、工作目录简介</h3>
 <p>        很多小可爱应该和我一样，看着自己搭好的博客一头雾水——这在哪写自己的博文呐！为了解决这一疑惑，我们现在来介绍一下工作空间文件夹的目录。</p>
 <blockquote>
 <p>blogsWorkSpace：这是我们开始创建的工作空间（名字是自己起的）</p>
@@ -30,10 +44,10 @@
 </blockquote>
 </blockquote>
 <p>        _posts文件中的 .md 文件就是博客的文件，小可爱们可以创建一个 .txt 文件然后改名为 .md文件，也可以直接通过下面的 git 代码直接创建。</p>
-<h3>3、git代码（以下摘选自 <a href="https://hexo.io/zh-cn/docs/writing" target="_blank" rel="noopener">Heox的官方文档</a> ）</h3>
+<h3 id="3-git代码-以下摘选自-heox的官方文档">3、git代码（以下摘选自 <a href="https://hexo.io/zh-cn/docs/writing" target="_blank" rel="noopener">Heox的官方文档</a> ）</h3>
 <p>        git 代码还是在Git控制台（在 <font color="red">工作空间根目录</font> 右键点击 <font color="red">Git Base Here</font>  ）中写。 你可以执行以下命令来创建一篇新文章或者新的页面：</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">$ hexo new [layout] &lt;title&gt;</span><br></pre></td></tr></table></figure>
-<p>其中 <code>[layout]</code> 是文章布局，默认为 <code>post</code> ，可写 <code>page</code> 、<code>post</code> 或 <code>draft</code>；<code>title</code> 是文章的标题，也是文件名称（ 用单引号 ）。 例如：</p>
+<p>        其中 <code>[layout]</code> 是文章布局，默认为 <code>post</code> ，可写 <code>page</code> 、<code>post</code> 或 <code>draft</code>；<code>title</code> 是文章的标题，也是文件名称（ 用单引号 ）。 例如：</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">$ hexo new post &apos;这是我的第一篇博客&apos;</span><br></pre></td></tr></table></figure>
 <ul>
 <li>布局 <code>[layout]</code>：</li>
@@ -76,14 +90,14 @@
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">$ hexo new photo &quot;My Gallery&quot;</span><br></pre></td></tr></table></figure>
 <p>在执行这行指令时，Hexo 会尝试在根目录的 <code>scaffolds</code> 文件夹中寻找 <code>photo.md</code>，并根据其内容来建立文章，我们也可以在 <code>scaffolds</code> 文件夹添加新的模板。</p>
 </blockquote>
-<h2>二、.md 文件介绍</h2>
-<h3>1、.md 文件简介</h3>
+<h2 id="二-md-文件介绍">二、.md 文件介绍</h2>
+<h3 id="1-md-文件简介">1、.md 文件简介</h3>
 <p>        按进入 source 中的 _posts 文件夹，我们可以看到我们刚刚创建的博客文件，均为 .md 文件。.md 文件是由 Markdown 语言编写的文件，Markdown 是一种轻量级标记语言，它允许人们使用易读易写的纯文本格式编写文档。</p>
-<p>        所以我们可以通过查询 Markdown 的教程来学习博客的编写方式，但要注意的是有少数 Markdown 的功能在博客中是无效的，后面我会把我发现的功能一一列出。</p>
-<h3>2、.md 结构介绍</h3>
+<p>        所以我们可以通过查询 Markdown 的教程来学习博客的编写方式，但要注意的是有少数 Markdown 的功能在博客中是无效的，后面我会把我发现的功能一一列出（ 附上 <a href="https://c.runoob.com/front-end/712" target="_blank" rel="noopener">Markdown在线编译器</a> ）。</p>
+<h3 id="2-md-结构介绍">2、.md 结构介绍</h3>
 <p>        用记事本打开 .md 文件如下图（ 我用的记事本是Editplus，大家没有的可以先用普通记事本，后面我会给大家介绍编写博客的工具）：.md 文件由两部分构成——Front-matter 部分，下面不知道叫什么部分。</p>
 <p><img src="/2019/11/21/%E5%B0%8F%E7%99%BD%E4%B9%9F%E4%BC%9A%E7%9A%84%E5%8D%9A%E5%AE%A2%E5%88%9B%E5%BB%BA%E4%B9%8B%E5%86%99%E4%BD%9C%E6%8A%80%E5%B7%A7%E7%AF%87/C:%5CUsers%5Cchuyu%5CDesktop%5Cmd%E6%96%87%E4%BB%B6%E7%A4%BA%E4%BE%8B%E5%9B%BE.png" alt></p>
-<h4>a、Front-matter 部分</h4>
+<h4 id="a-front-matter-部分">a、Front-matter 部分</h4>
 <p>        上两个 <code>---</code> 分隔的区域就是 Front-matter 部分，可以把它看做是文章的配置部分， 以下是预先定义的参数，我们可以在这个部分中使用这些参数值并加以利用。</p>
 <table>
 <thead>
@@ -141,28 +155,28 @@
 </tr>
 </tbody>
 </table>
-<p>下面我们介绍几个 <s>我认识的</s> 常用的功能：</p>
+<p>        下面我们介绍几个 <s>我认识的</s> 常用的功能：</p>
 <ul>
 <li>分类和标签：</li>
 </ul>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">`categories:- Diarytags:- PS3- Games`</span><br></pre></td></tr></table></figure>
-<p>如上意思是该博文分类属于 <font color="CC00FF">“技术博文类”中的“联网技术博文”类</font> ( 后者属于前者中的一类 ) 标签含有 <font color="CC00FF">“有趣标签”和“新颖标签”两个标签</font> （ 两者无关系 ）</p>
-<p>“诶怎么会这样呀！” 不知道你看了是什么状态，反正我当时这么大叫了。后来查了才发现，其实想写两个没有隶属关系的类应该这么写：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">`categories:- [Diary, PlayStation]`</span><br></pre></td></tr></table></figure>
-<p>如上为该博文分类属于 <font color="CC00FF">“技术博文类”中的“联网技术博文”类，也属于生活博文的生活情感博文类</font></p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">categories:</span><br><span class="line">- 技术博文</span><br><span class="line">- 联网技术博文</span><br><span class="line">tags:</span><br><span class="line">- 有（shā）趣（diāo）</span><br><span class="line">- 新颖</span><br></pre></td></tr></table></figure>
+<p>        如上意思是该博文分类属于 <font color="CC00FF">“技术博文”类中的“联网技术博文”类</font> ( 后者属于前者中的一类 ) 标签含有 <font color="CC00FF">“有趣”和“新颖”两个标签</font> （ 两者无关系 ）</p>
+<p>        “诶怎么会这样呀！” 不知道你看了是什么状态，反正我当时这么大叫了。后来查了才发现，其实想写两个没有隶属关系的类应该这么写：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">categories:</span><br><span class="line">- [技术博文, 联网技术博文]</span><br><span class="line">- [生活博文, 生活情感博文]</span><br></pre></td></tr></table></figure>
+<p>        如上为该博文分类属于 <font color="CC00FF">“技术博文”类中的“联网技术博文”类，也属于“生活博文”类的“生活情感博文”类</font></p>
 <ul>
 <li>layout 布局</li>
 </ul>
-<p>layout中你可以选择不同的布局，这我就不一一叙述了，其中如果你不想你的文章被任何布局处理，你可以设置为<code>layout: false</code> 。</p>
-<h4>b、不知道叫什么部分</h4>
+<p>        layout中你可以选择不同的布局，这我就不一一叙述了，其中如果你不想你的文章被任何布局处理，你可以设置为<code>layout: false</code> 。</p>
+<h4 id="b-不知道叫什么部分">b、不知道叫什么部分</h4>
 <p>        这一部分其实就是我们写文章的部分，我们可以在这里编写我们博文的具体内容，当然也可以用一些标签插件提高我们博文的可读性与美观性。</p>
 <p>        很多小可爱应该发现，别人的博文内容明明那么多可是在首页中只显示前几段，下面的用一个 <font color="CC00FF">阅读原文</font> 按钮代替了，这是怎么实现的呢？其实很简单，只要在文章的中间加一行 <code>&lt;!-- more --&gt;</code> 在首页是就只显示 <code>&lt;!-- more --&gt;</code> 前面的文章，全文只有在进入博文后才能看到。</p>
-<h3>3、编写工具</h3>
-<p>        .md 文件的编写门槛其实很低，用电脑自带的记事本、EditPuls 等其他记事本或者各种轻量级编译器都可以。这里向大家推荐一款很好用的编写软件：<a href="https://www.typora.io/#windows" target="_blank" rel="noopener">Typora</a> 。具体使用方法我会和标签插件一起总结一下，以便以后忘了的时候查阅。</p>
-<h2>三、博文的编写</h2>
-<p>        为了方便以后查阅，这里我只总结了在 Typora 软件中各个标签最快捷的使用方法，如果想要学习详细教程，大家可以去 <a href="https://hexo.io/zh-cn/docs/tag-plugins" target="_blank" rel="noopener">官方标签插件教程</a> 、@ yearito 大大的 <a href="http://yearito.cn/posts/hexo-writing-skills.html" target="_blank" rel="noopener">教科书般的教程</a> 、介绍 Markdown 的 <a href="https://www.runoob.com/markdown/md-tutorial.html" target="_blank" rel="noopener">菜鸟教程</a> 或百度中查询学习。</p>
+<h3 id="3-编写工具">3、编写工具</h3>
+<p>        .md 文件的编写门槛其实很低，用电脑自带的记事本、EditPuls 等其他记事本或者各种轻量级编译器都可以。这里向大家推荐一款很好用的编写软件：<a href="https://www.typora.io/#windows" target="_blank" rel="noopener">Typora</a> 。具体使用方法我会和标签插件一起总结一下，以便以后忘了的时候查阅。（ 附上一篇 <a href="https://www.cnblogs.com/gxh195/p/10657200.html" target="_blank" rel="noopener">Typora快捷键教程</a> ）</p>
 <p>        Typora 上方视图菜单中有  <font color="CC00FF">专注模式</font> 和 <font color="CC00FF">打字机模式</font> 。其中专注模式是只有当前打字的那一行是亮着的，其他地方变成灰暗的（ 个人感觉有点鸡肋 ）。打字机模式是让我们正在打字的这一行始终在页面最中间（ 感觉这个不错，写文章时可以一直开着，不用特意翻页面 ）。</p>
-<h3>1、段落</h3>
+<h2 id="三-博文的编写">三、博文的编写</h2>
+<p>        为了方便以后查阅，这里我只总结了在 Typora 软件中各个标签最快捷的使用方法，如果想要学习详细教程，大家可以去 <a href="https://hexo.io/zh-cn/docs/tag-plugins" target="_blank" rel="noopener">官方标签插件教程</a> 、@ yearito 大大的 <a href="http://yearito.cn/posts/hexo-writing-skills.html" target="_blank" rel="noopener">教科书般的教程</a> 、介绍 Markdown 的 <a href="https://www.runoob.com/markdown/md-tutorial.html" target="_blank" rel="noopener">菜鸟教程</a> 或百度中查询学习。</p>
+<h3 id="1-段落">1、段落</h3>
 <table>
 <thead>
 <tr>
@@ -211,23 +225,190 @@
 </tr>
 </tbody>
 </table>
-<h3>2、文字和图片</h3>
+<h3 id="2-文字和图片">2、文字和图片</h3>
+<p>        博客添加文字很简单，正常打字便可以。添加图片分为两种，一是网络上的图片，只要依次点击 <font color="CC00FF">右键-插入-图片</font> 小括号 <code>()</code> 中填写图片链接就可以；另一种就是本地图片了，本地图片需要按以下步骤进行：</p>
+<ul>
+<li>
+<p>初次导入需下载配置图片上传插件：</p>
+<blockquote>
+<p>a、将主配置文件 _config.yml 中的 <code>post_asset_folder: false</code> 改为  <code>post_asset_folder: true</code></p>
+<p>b、在 git 中执行 <code>npm install https://github.com/CodeFalling/hexo-asset-image -- save</code> 以安装插件</p>
+</blockquote>
+</li>
+<li>
+<p>插件配置好后添加图片需要两个步骤：</p>
+<blockquote>
+<p>a、把图片导入 <code>source/_posts/***</code> 文件夹中（ ***为与博文同名的文件夹 ）如果没有就手动创建。</p>
+<p>b、依次点击 <font color="CC00FF">右键-插入-图片</font> 小括号 <code>()</code> 中填写 <code>图片名字.图片格式</code> (  由于是博客的插件，Typora无法识别这个图片，不过没关系，上传上去是可以用的 )</p>
+</blockquote>
+</li>
+</ul>
+<p>        文字的话设置字体、颜色、大小、背景当然也是必要的，以下代码和样式便可以实现这一功能（ 选取颜色代码可在 <a href="/2019/11/22/%E5%B7%A5%E5%85%B7%EF%BC%9A%E9%A2%9C%E8%89%B2%E5%90%8D%E5%88%97%E8%A1%A8/" title="工具：颜色名列表">工具：颜色名列表</a> 界面）</p>
 <ul>
 <li>代码</li>
 </ul>
-<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">font</span> <span class="attr">face</span>=<span class="string">"微软雅黑"</span>&gt;</span>我是微软雅黑<span class="tag">&lt;/<span class="name">font</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">font</span> <span class="attr">face</span>=<span class="string">"STCAIYUN"</span>&gt;</span>我是华文彩云<span class="tag">&lt;/<span class="name">font</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">font</span> <span class="attr">color</span>=<span class="string">red</span>&gt;</span>我是红色<span class="tag">&lt;/<span class="name">font</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">font</span> <span class="attr">size</span>=<span class="string">7</span>&gt;</span>我是7尺寸<span class="tag">&lt;/<span class="name">font</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">font</span> <span class="attr">face</span>=<span class="string">"黑体"</span> <span class="attr">color</span>=<span class="string">green</span> <span class="attr">size</span>=<span class="string">5</span>&gt;</span>我是黑体，绿色，尺寸为5<span class="tag">&lt;/<span class="name">font</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">table</span>&gt;</span><span class="tag">&lt;<span class="name">tr</span>&gt;</span><span class="tag">&lt;<span class="name">td</span> <span class="attr">bgcolor</span>=<span class="string">yellow</span>&gt;</span>我有背景颜色<span class="tag">&lt;/<span class="name">td</span>&gt;</span><span class="tag">&lt;/<span class="name">tr</span>&gt;</span><span class="tag">&lt;/<span class="name">table</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">img</span> <span class="attr">src</span>=<span class="string">"http://pic11.photophoto.cn/20090626/0036036341009653_b.jpg"</span> <span class="attr">width</span>=<span class="string">"20%"</span> <span class="attr">height</span>=<span class="string">"20%"</span>&gt;</span></span><br></pre></td></tr></table></figure>
+<figure class="highlight html"><table><tr><td class="code"><pre><span class="line">`我是代码块字`</span><br><span class="line">~~我是删除线子~~</span><br><span class="line">*我手机斜体字*</span><br><span class="line">**我是粗体字**</span><br><span class="line">***我手机斜粗体字***</span><br><span class="line"><span class="tag">&lt;<span class="name">font</span> <span class="attr">face</span>=<span class="string">"STCAIYUN"</span>&gt;</span>我是华文彩云字体<span class="tag">&lt;/<span class="name">font</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">font</span> <span class="attr">color</span>=<span class="string">red</span>&gt;</span>我是红色<span class="tag">&lt;/<span class="name">font</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">font</span> <span class="attr">size</span>=<span class="string">7</span>&gt;</span>我是7尺寸<span class="tag">&lt;/<span class="name">font</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">table</span>&gt;</span><span class="tag">&lt;<span class="name">tr</span>&gt;</span><span class="tag">&lt;<span class="name">td</span> <span class="attr">bgcolor</span>=<span class="string">yellow</span>&gt;</span>我有背景颜色<span class="tag">&lt;/<span class="name">td</span>&gt;</span><span class="tag">&lt;/<span class="name">tr</span>&gt;</span><span class="tag">&lt;/<span class="name">table</span>&gt;</span></span><br></pre></td></tr></table></figure>
 <ul>
 <li>样式</li>
 </ul>
 <blockquote>
-<p><font face="微软雅黑">我是微软雅黑</font><br>
-<font face="STCAIYUN">我是华文彩云</font><br>
+<p><code>我是代码块字</code></p>
+<p><s>我是删除线子</s></p>
+<p><em>我手机斜体字</em></p>
+<p><strong>我是粗体字</strong></p>
+<p><strong><em>我手机斜粗体字</em></strong></p>
+<p><font face="STCAIYUN">我是华文彩云字体</font><br>
 <font color="red">我是红色</font><br>
-<font size="7">我是7尺寸</font><br>
-<font face="黑体" color="green" size="5">我是黑体，绿色，尺寸为5</font></p>
+<font size="7">我是7尺寸</font></p>
 <table><tr><td bgcolor="yellow">我有背景颜色</td></tr></table>
-<img src="http://pic11.photophoto.cn/20090626/0036036341009653_b.jpg" width="20%" height="20%">
 </blockquote>
+<p>        以下分别设置图片的比例、大小：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;img src=&quot;img1.jpg&quot; width=&quot;20%&quot; height=&quot;20%&quot;&gt;</span><br><span class="line">&lt;img src=img src=&quot;img1.jpg&quot; width=&quot;15&quot; height=&quot;20&quot; &gt;</span><br></pre></td></tr></table></figure>
+<blockquote>
+ <img src="/2019/11/21/%E5%B0%8F%E7%99%BD%E4%B9%9F%E4%BC%9A%E7%9A%84%E5%8D%9A%E5%AE%A2%E5%88%9B%E5%BB%BA%E4%B9%8B%E5%86%99%E4%BD%9C%E6%8A%80%E5%B7%A7%E7%AF%87/img1.jpg" width="20%" height="20%">
+<img src="/2019/11/21/%E5%B0%8F%E7%99%BD%E4%B9%9F%E4%BC%9A%E7%9A%84%E5%8D%9A%E5%AE%A2%E5%88%9B%E5%BB%BA%E4%B9%8B%E5%86%99%E4%BD%9C%E6%8A%80%E5%B7%A7%E7%AF%87/img1.jpg" width="100" height="200">
+</blockquote>
+<h3 id="3-区域">3、区域</h3>
+<h4 id="a-表格">a、表格</h4>
+<h5 id="使用：">使用：</h5>
+<p>        依次点击 <font color="CC00FF">右键-插入-表格</font> 填入行、列得到表格。右键或右上角可以操作、删除表格。左上角第一个调整表格大小、第二个设置对齐方式</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">左对齐</th>
+<th style="text-align:center">居中</th>
+<th style="text-align:right">右对齐</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:center"></td>
+<td style="text-align:right"></td>
+</tr>
+</tbody>
+</table>
+<h4 id="b-代码块">b、代码块</h4>
+<h5 id="使用：-v2">使用：</h5>
+<p>        依次点击 <font color="CC00FF">右键-插入-代码块</font> 填入行、列得到代码块。</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line"></span><br></pre></td></tr></table></figure>
+<h4 id="c-公式块">c、公式块</h4>
+<h5 id="使用：-v3">使用：</h5>
+<p>        依次点击 <font color="CC00FF">右键-插入-公式块</font> 填入行、列得到公式块。<br>
+$$<br>
+a+b=c<br>
+$$</p>
+<h3 id="4-其他插件">4、其他插件</h3>
+<h4 id="a-链接">a、链接</h4>
+<ul>
+<li>网页链接</li>
+<li>链接到你本地的其他文章</li>
+</ul>
+<h4 id="b-markdown-it插件">b、markdown-it插件</h4>
+<p><code>hexo-renderer-markdown-it</code> 是一款用于 Markdown 解析和渲染的插件。( <a href="https://www.jianshu.com/p/588ab3d22eb8" target="_blank" rel="noopener">参考链接</a> )</p>
+<ul>
+<li>用于替换 Hexo 默认自带的 Markdown 渲染器。</li>
+<li>提供了更丰富的 Markdown 解析和渲染。</li>
+</ul>
+<h5 id="安装：">安装：</h5>
+<blockquote>
+<p>1.卸载 Hexo 默认自带的 Markdown 渲染器</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">$ npm un hexo-renderer-marked --save</span><br></pre></td></tr></table></figure>
+<p>2.安装 <code>hexo-renderer-markdown-it</code> 插件</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">$ npm i hexo-renderer-markdown-it --save</span><br></pre></td></tr></table></figure>
+</blockquote>
+<h5 id="配置：">配置：</h5>
+<p>        在 <code>_config.yml</code> 中添加以下代码：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line"># Markdown-it config</span><br><span class="line">markdown:</span><br><span class="line">  render:</span><br><span class="line">    html: true</span><br><span class="line">    xhtmlOut: false</span><br><span class="line">    breaks: true</span><br><span class="line">    linkify: true</span><br><span class="line">    typographer: true</span><br><span class="line">    quotes: &apos;“”‘’&apos;</span><br><span class="line">  plugins:</span><br><span class="line">    - markdown-it-abbr</span><br><span class="line">    - markdown-it-footnote</span><br><span class="line">    - markdown-it-ins</span><br><span class="line">    - markdown-it-sub</span><br><span class="line">    - markdown-it-sup</span><br><span class="line">  anchors:</span><br><span class="line">    level: 2</span><br><span class="line">    collisionSuffix: &apos;v&apos;</span><br><span class="line">    permalink: false</span><br><span class="line">    permalinkClass: none-anchor</span><br><span class="line">    permalinkSymbol: ¶</span><br></pre></td></tr></table></figure>
+<h5 id="使用：-v4">使用：</h5>
+<p><code>hexo-renderer-markdown-it</code> 默认集成5个 <code>markdown-it</code> 插件</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="comment"># Markdown-it config</span></span><br><span class="line">markdown:</span><br><span class="line">  plugins:</span><br><span class="line">    - markdown-it-abbr</span><br><span class="line">    - markdown-it-footnote</span><br><span class="line">    - markdown-it-ins</span><br><span class="line">    - markdown-it-sub</span><br><span class="line">    - markdown-it-sup</span><br></pre></td></tr></table></figure>
+<ul>
+<li>markdown-it-abbr：缩写插件</li>
+</ul>
+<figure class="highlight csharp"><table><tr><td class="code"><pre><span class="line">*[HTML]: Hyper Text Markup Language</span><br><span class="line">*[W3C]:  World Wide Web Consortium</span><br><span class="line"></span><br><span class="line">The HTML specification</span><br><span class="line"><span class="keyword">is</span> maintained <span class="keyword">by</span> the W3C.</span><br></pre></td></tr></table></figure>
+<ul>
+<li>markdown-it-footnote：脚注插件</li>
+</ul>
+<figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line">basic footnote[^<span class="number">1</span>]</span><br><span class="line">here is an <span class="keyword">inline</span> footnote[^<span class="number">2</span>](<span class="keyword">inline</span> footnote)</span><br><span class="line"><span class="keyword">and</span> another one[^<span class="number">3</span>]</span><br><span class="line"><span class="keyword">and</span> another one[^<span class="number">4</span>]</span><br><span class="line"></span><br><span class="line">[^<span class="number">1</span>]: basic footnote content</span><br><span class="line">[^<span class="number">3</span>]: paragraph</span><br><span class="line">footnote</span><br><span class="line">content</span><br><span class="line">[^<span class="number">4</span>]: footnote content with some [markdown](https:<span class="comment">//en.wikipedia.org/wiki/Markdown)</span></span><br></pre></td></tr></table></figure>
+<ul>
+<li>markdown-it-ins：插入插件（下划线插件）</li>
+</ul>
+<figure class="highlight jsx"><table><tr><td class="code"><pre><span class="line">++inserted++ =&gt; <span class="xml"><span class="tag">&lt;<span class="name">ins</span>&gt;</span>inserted<span class="tag">&lt;/<span class="name">ins</span>&gt;</span></span></span><br></pre></td></tr></table></figure>
+<ul>
+<li>markdown-it-sub：下标插件</li>
+</ul>
+<figure class="highlight xml"><table><tr><td class="code"><pre><span class="line">H~2~0 =&gt; H<span class="tag">&lt;<span class="name">sub</span>&gt;</span>2<span class="tag">&lt;/<span class="name">sub</span>&gt;</span>O</span><br></pre></td></tr></table></figure>
+<ul>
+<li>markdown-it-sup：上标插件</li>
+</ul>
+<figure class="highlight xml"><table><tr><td class="code"><pre><span class="line">29^th^ =&gt; 29<span class="tag">&lt;<span class="name">sup</span>&gt;</span>th<span class="tag">&lt;/<span class="name">sup</span>&gt;</span></span><br></pre></td></tr></table></figure>
+<h4 id="c-aplayer-音频播放器">c、Aplayer 音频播放器</h4>
+<h5 id="安装：-v2">安装：</h5>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">$ npm install hexo-tag-aplayer --save</span><br></pre></td></tr></table></figure>
+<h5 id="使用：-v5">使用：</h5>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&#123;% aplayer title author url [picture_url, narrow, autoplay, width:xxx, lrc:xxx] %&#125;</span><br></pre></td></tr></table></figure>
+<ul>
+<li>title: 曲目标题</li>
+<li>author: 曲目作者</li>
+<li>url: 音乐文件 URL 地址（可选上传的本地资源，与上传图片类似）</li>
+<li>picture_url: (可选) 音乐对应的图片地址（可选上传的本地资源，与上传图片类似）</li>
+<li>narrow: （可选）播放器袖珍风格</li>
+<li>autoplay: (可选) 自动播放，移动端浏览器暂时不支持此功能</li>
+<li>width:xxx: (可选) 播放器宽度 (默认: 100%)</li>
+<li>lrc:xxx: （可选）歌词文件 URL 地址（可选上传的本地资源，与上传图片类似）</li>
+</ul>
+<h5 id="效果：">效果：</h5>
+<h4 id="d-dpalyer-视频播放器">d、Dpalyer 视频播放器</h4>
+<h5 id="安装：-v3">安装：</h5>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">$ npm install hexo-tag-dplayer --save</span><br></pre></td></tr></table></figure>
+<h5 id="使用：-v6">使用：</h5>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&#123;% dplayer &quot;url=video-url&quot; &quot;pic=image-url&quot; ... [&quot;key=value&quot;] %&#125;</span><br></pre></td></tr></table></figure>
+<ul>
+<li>播放器
+<ul>
+<li>autoplay：是否开启视频自动播放，默认为 <code>fasle</code></li>
+<li>loop：是否开启视频循环播放，默认为 <code>false</code></li>
+<li>screenshot：是否开启截图，默认为 <code>false</code></li>
+<li>mutex：是否禁止多个播放器同时播放，默认为 <code>true</code></li>
+<li>dmunlimited：是否开启海量弹幕模式，默认为 <code>false</code></li>
+<li>preload：预加载模式，可选 <code>note</code> <code>metadata</code> <code>auto</code></li>
+<li>theme：主题色</li>
+<li>lang：语言，可选 <code>en</code> <code>zh-cn</code> <code>zh-tw</code></li>
+<li>logo：左上角的 Logo</li>
+<li>volume：默认音量，默认为 0.7</li>
+<li>width：播放器宽度</li>
+<li>height：播放器高度</li>
+</ul>
+</li>
+<li>视频
+<ul>
+<li>url：视频链接</li>
+<li>pic：视频封面</li>
+<li>thumbnails：视频缩略图，可以使用 <a href="https://github.com/MoePlayer/DPlayer-thumbnails" target="_blank" rel="noopener">DPlayer-thumbnails</a> 生成</li>
+<li>vidtype：视频类型，可选 <code>auto</code> <code>hls</code> <code>flv</code> <code>dash</code> 或其他自定义类型</li>
+</ul>
+</li>
+<li>字幕
+<ul>
+<li>suburl：字幕链接</li>
+<li>subtype：字幕类型，可选 <code>webvtt</code> <code>ass</code>，目前只支持 <code>webvtt</code></li>
+<li>subbottom：字幕距离播放器底部的距离，如 <code>10px</code> <code>10%</code></li>
+<li>subcolor：字幕颜色</li>
+</ul>
+</li>
+<li>弹幕
+<ul>
+<li>id：弹幕 id</li>
+<li>api：弹幕 api</li>
+<li>token：弹幕后端验证 token</li>
+<li>addition：额外外挂弹幕</li>
+<li>dmuser：弹幕用户名</li>
+<li>maximum：弹幕最大数量</li>
+</ul>
+</li>
+</ul>
+<h5 id="效果：-v2">效果：</h5>
 <div id="footnotes"><hr><div id="footnotelist"><ol style="list-style:none; padding-left: 0;"><li id="fn:1"><span style="display: inline-block; vertical-align: top; padding-right: 10px;">1.</span><span style="display: inline-block; vertical-align: top;">$ hexo clean , $ hexo g , $ hexo d</span><a href="#fnref:1" rev="footnote"> ↩</a></li><li id="fn:2"><span style="display: inline-block; vertical-align: top; padding-right: 10px;">2.</span><span style="display: inline-block; vertical-align: top;">$ hexo clean , $ hexo g</span><a href="#fnref:2" rev="footnote"> ↩</a></li></ol></div></div>]]></content>
       <categories>
         <category>技术篇</category>
@@ -243,7 +424,7 @@
   <entry>
     <title>小白也会的博客搭建:主题美化篇</title>
     <url>/2019/11/21/%E5%B0%8F%E7%99%BD%E4%B9%9F%E4%BC%9A%E7%9A%84%E5%8D%9A%E5%AE%A2%E5%88%9B%E5%BB%BA%E4%B9%8B%E4%B8%BB%E9%A2%98%E7%BE%8E%E5%8C%96%E7%AF%87/</url>
-    <content><![CDATA[<a id="more"></a>]]></content>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><a id="more"></a>]]></content>
       <categories>
         <category>技术篇</category>
         <category>搭建个人博客</category>
@@ -258,7 +439,7 @@
   <entry>
     <title>小白也会的博客搭建:基础建站篇</title>
     <url>/2019/11/21/%E5%B0%8F%E7%99%BD%E4%B9%9F%E4%BC%9A%E7%9A%84%E5%8D%9A%E5%AE%A2%E5%88%9B%E5%BB%BA%E4%B9%8B%E5%9F%BA%E7%A1%80%E5%BB%BA%E7%AB%99%E7%AF%87/</url>
-    <content><![CDATA[<a id="more"></a>]]></content>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><a id="more"></a>]]></content>
       <categories>
         <category>技术篇</category>
         <category>搭建个人博客</category>

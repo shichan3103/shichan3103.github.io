@@ -77,14 +77,14 @@
       
         <p>        换好了美美的主题，心里还是有些小得意的。可坐在电脑前傻傻地 <s>玩弄</s> 欣赏半个小时看板娘之后，心里还是不免有些空落落的。毕竟主题什么的只是浮华，为了让自己的博客不只是“心血来潮”，把自己想写的东西写进去才是真正重要的事。</p>
 <a id="more"></a>
-<h2>一、开始</h2>
-<h3>1、首先我们还是介绍一下本文的主要参考资料：</h3>
+<h2 id="一-开始">一、开始</h2>
+<h3 id="1-首先我们还是介绍一下本文的主要参考资料：">1、首先我们还是介绍一下本文的主要参考资料：</h3>
 <blockquote>
 <p>第一个当然是@ yearito 大大的 <a href="http://yearito.cn/posts/hexo-writing-skills.html" target="_blank" rel="noopener">教科书般的教程</a> 啦。</p>
 <p>第二是 <a href="https://hexo.io/zh-cn/docs/writing" target="_blank" rel="noopener">Heox的官方文档</a> 。</p>
 <p>最后是大家都熟悉的 <a href="https://www.runoob.com/markdown/md-tutorial.html" target="_blank" rel="noopener">菜鸟教程</a>。</p>
 </blockquote>
-<h3>2、工作目录简介</h3>
+<h3 id="2-工作目录简介">2、工作目录简介</h3>
 <p>        很多小可爱应该和我一样，看着自己搭好的博客一头雾水——这在哪写自己的博文呐！为了解决这一疑惑，我们现在来介绍一下工作空间文件夹的目录。</p>
 <blockquote>
 <p>blogsWorkSpace：这是我们开始创建的工作空间（名字是自己起的）</p>
@@ -102,10 +102,10 @@
 </blockquote>
 </blockquote>
 <p>        _posts文件中的 .md 文件就是博客的文件，小可爱们可以创建一个 .txt 文件然后改名为 .md文件，也可以直接通过下面的 git 代码直接创建。</p>
-<h3>3、git代码（以下摘选自 <a href="https://hexo.io/zh-cn/docs/writing" target="_blank" rel="noopener">Heox的官方文档</a> ）</h3>
+<h3 id="3-git代码-以下摘选自-heox的官方文档">3、git代码（以下摘选自 <a href="https://hexo.io/zh-cn/docs/writing" target="_blank" rel="noopener">Heox的官方文档</a> ）</h3>
 <p>        git 代码还是在Git控制台（在 <font color="red">工作空间根目录</font> 右键点击 <font color="red">Git Base Here</font>  ）中写。 你可以执行以下命令来创建一篇新文章或者新的页面：</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new [layout] &lt;title&gt;</span><br></pre></td></tr></table></figure>
-<p>其中 <code>[layout]</code> 是文章布局，默认为 <code>post</code> ，可写 <code>page</code> 、<code>post</code> 或 <code>draft</code>；<code>title</code> 是文章的标题，也是文件名称（ 用单引号 ）。 例如：</p>
+<p>        其中 <code>[layout]</code> 是文章布局，默认为 <code>post</code> ，可写 <code>page</code> 、<code>post</code> 或 <code>draft</code>；<code>title</code> 是文章的标题，也是文件名称（ 用单引号 ）。 例如：</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new post &apos;这是我的第一篇博客&apos;</span><br></pre></td></tr></table></figure>
 <ul>
 <li>布局 <code>[layout]</code>：</li>
@@ -148,14 +148,14 @@
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new photo &quot;My Gallery&quot;</span><br></pre></td></tr></table></figure>
 <p>在执行这行指令时，Hexo 会尝试在根目录的 <code>scaffolds</code> 文件夹中寻找 <code>photo.md</code>，并根据其内容来建立文章，我们也可以在 <code>scaffolds</code> 文件夹添加新的模板。</p>
 </blockquote>
-<h2>二、.md 文件介绍</h2>
-<h3>1、.md 文件简介</h3>
+<h2 id="二-md-文件介绍">二、.md 文件介绍</h2>
+<h3 id="1-md-文件简介">1、.md 文件简介</h3>
 <p>        按进入 source 中的 _posts 文件夹，我们可以看到我们刚刚创建的博客文件，均为 .md 文件。.md 文件是由 Markdown 语言编写的文件，Markdown 是一种轻量级标记语言，它允许人们使用易读易写的纯文本格式编写文档。</p>
-<p>        所以我们可以通过查询 Markdown 的教程来学习博客的编写方式，但要注意的是有少数 Markdown 的功能在博客中是无效的，后面我会把我发现的功能一一列出。</p>
-<h3>2、.md 结构介绍</h3>
+<p>        所以我们可以通过查询 Markdown 的教程来学习博客的编写方式，但要注意的是有少数 Markdown 的功能在博客中是无效的，后面我会把我发现的功能一一列出（ 附上 <a href="https://c.runoob.com/front-end/712" target="_blank" rel="noopener">Markdown在线编译器</a> ）。</p>
+<h3 id="2-md-结构介绍">2、.md 结构介绍</h3>
 <p>        用记事本打开 .md 文件如下图（ 我用的记事本是Editplus，大家没有的可以先用普通记事本，后面我会给大家介绍编写博客的工具）：.md 文件由两部分构成——Front-matter 部分，下面不知道叫什么部分。</p>
 <p><img src="/2019/11/21/%E5%B0%8F%E7%99%BD%E4%B9%9F%E4%BC%9A%E7%9A%84%E5%8D%9A%E5%AE%A2%E5%88%9B%E5%BB%BA%E4%B9%8B%E5%86%99%E4%BD%9C%E6%8A%80%E5%B7%A7%E7%AF%87/C:%5CUsers%5Cchuyu%5CDesktop%5Cmd%E6%96%87%E4%BB%B6%E7%A4%BA%E4%BE%8B%E5%9B%BE.png" alt></p>
-<h4>a、Front-matter 部分</h4>
+<h4 id="a-front-matter-部分">a、Front-matter 部分</h4>
 <p>        上两个 <code>---</code> 分隔的区域就是 Front-matter 部分，可以把它看做是文章的配置部分， 以下是预先定义的参数，我们可以在这个部分中使用这些参数值并加以利用。</p>
 <table>
 <thead>
@@ -213,28 +213,28 @@
 </tr>
 </tbody>
 </table>
-<p>下面我们介绍几个 <s>我认识的</s> 常用的功能：</p>
+<p>        下面我们介绍几个 <s>我认识的</s> 常用的功能：</p>
 <ul>
 <li>分类和标签：</li>
 </ul>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">`categories:- Diarytags:- PS3- Games`</span><br></pre></td></tr></table></figure>
-<p>如上意思是该博文分类属于 <font color="CC00FF">“技术博文类”中的“联网技术博文”类</font> ( 后者属于前者中的一类 ) 标签含有 <font color="CC00FF">“有趣标签”和“新颖标签”两个标签</font> （ 两者无关系 ）</p>
-<p>“诶怎么会这样呀！” 不知道你看了是什么状态，反正我当时这么大叫了。后来查了才发现，其实想写两个没有隶属关系的类应该这么写：</p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">`categories:- [Diary, PlayStation]`</span><br></pre></td></tr></table></figure>
-<p>如上为该博文分类属于 <font color="CC00FF">“技术博文类”中的“联网技术博文”类，也属于生活博文的生活情感博文类</font></p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">categories:</span><br><span class="line">- 技术博文</span><br><span class="line">- 联网技术博文</span><br><span class="line">tags:</span><br><span class="line">- 有（shā）趣（diāo）</span><br><span class="line">- 新颖</span><br></pre></td></tr></table></figure>
+<p>        如上意思是该博文分类属于 <font color="CC00FF">“技术博文”类中的“联网技术博文”类</font> ( 后者属于前者中的一类 ) 标签含有 <font color="CC00FF">“有趣”和“新颖”两个标签</font> （ 两者无关系 ）</p>
+<p>        “诶怎么会这样呀！” 不知道你看了是什么状态，反正我当时这么大叫了。后来查了才发现，其实想写两个没有隶属关系的类应该这么写：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">categories:</span><br><span class="line">- [技术博文, 联网技术博文]</span><br><span class="line">- [生活博文, 生活情感博文]</span><br></pre></td></tr></table></figure>
+<p>        如上为该博文分类属于 <font color="CC00FF">“技术博文”类中的“联网技术博文”类，也属于“生活博文”类的“生活情感博文”类</font></p>
 <ul>
 <li>layout 布局</li>
 </ul>
-<p>layout中你可以选择不同的布局，这我就不一一叙述了，其中如果你不想你的文章被任何布局处理，你可以设置为<code>layout: false</code> 。</p>
-<h4>b、不知道叫什么部分</h4>
+<p>        layout中你可以选择不同的布局，这我就不一一叙述了，其中如果你不想你的文章被任何布局处理，你可以设置为<code>layout: false</code> 。</p>
+<h4 id="b-不知道叫什么部分">b、不知道叫什么部分</h4>
 <p>        这一部分其实就是我们写文章的部分，我们可以在这里编写我们博文的具体内容，当然也可以用一些标签插件提高我们博文的可读性与美观性。</p>
 <p>        很多小可爱应该发现，别人的博文内容明明那么多可是在首页中只显示前几段，下面的用一个 <font color="CC00FF">阅读原文</font> 按钮代替了，这是怎么实现的呢？其实很简单，只要在文章的中间加一行 <code>&lt;!-- more --&gt;</code> 在首页是就只显示 <code>&lt;!-- more --&gt;</code> 前面的文章，全文只有在进入博文后才能看到。</p>
-<h3>3、编写工具</h3>
-<p>        .md 文件的编写门槛其实很低，用电脑自带的记事本、EditPuls 等其他记事本或者各种轻量级编译器都可以。这里向大家推荐一款很好用的编写软件：<a href="https://www.typora.io/#windows" target="_blank" rel="noopener">Typora</a> 。具体使用方法我会和标签插件一起总结一下，以便以后忘了的时候查阅。</p>
-<h2>三、博文的编写</h2>
-<p>        为了方便以后查阅，这里我只总结了在 Typora 软件中各个标签最快捷的使用方法，如果想要学习详细教程，大家可以去 <a href="https://hexo.io/zh-cn/docs/tag-plugins" target="_blank" rel="noopener">官方标签插件教程</a> 、@ yearito 大大的 <a href="http://yearito.cn/posts/hexo-writing-skills.html" target="_blank" rel="noopener">教科书般的教程</a> 、介绍 Markdown 的 <a href="https://www.runoob.com/markdown/md-tutorial.html" target="_blank" rel="noopener">菜鸟教程</a> 或百度中查询学习。</p>
+<h3 id="3-编写工具">3、编写工具</h3>
+<p>        .md 文件的编写门槛其实很低，用电脑自带的记事本、EditPuls 等其他记事本或者各种轻量级编译器都可以。这里向大家推荐一款很好用的编写软件：<a href="https://www.typora.io/#windows" target="_blank" rel="noopener">Typora</a> 。具体使用方法我会和标签插件一起总结一下，以便以后忘了的时候查阅。（ 附上一篇 <a href="https://www.cnblogs.com/gxh195/p/10657200.html" target="_blank" rel="noopener">Typora快捷键教程</a> ）</p>
 <p>        Typora 上方视图菜单中有  <font color="CC00FF">专注模式</font> 和 <font color="CC00FF">打字机模式</font> 。其中专注模式是只有当前打字的那一行是亮着的，其他地方变成灰暗的（ 个人感觉有点鸡肋 ）。打字机模式是让我们正在打字的这一行始终在页面最中间（ 感觉这个不错，写文章时可以一直开着，不用特意翻页面 ）。</p>
-<h3>1、段落</h3>
+<h2 id="三-博文的编写">三、博文的编写</h2>
+<p>        为了方便以后查阅，这里我只总结了在 Typora 软件中各个标签最快捷的使用方法，如果想要学习详细教程，大家可以去 <a href="https://hexo.io/zh-cn/docs/tag-plugins" target="_blank" rel="noopener">官方标签插件教程</a> 、@ yearito 大大的 <a href="http://yearito.cn/posts/hexo-writing-skills.html" target="_blank" rel="noopener">教科书般的教程</a> 、介绍 Markdown 的 <a href="https://www.runoob.com/markdown/md-tutorial.html" target="_blank" rel="noopener">菜鸟教程</a> 或百度中查询学习。</p>
+<h3 id="1-段落">1、段落</h3>
 <table>
 <thead>
 <tr>
@@ -283,28 +283,195 @@
 </tr>
 </tbody>
 </table>
-<h3>2、文字和图片</h3>
+<h3 id="2-文字和图片">2、文字和图片</h3>
+<p>        博客添加文字很简单，正常打字便可以。添加图片分为两种，一是网络上的图片，只要依次点击 <font color="CC00FF">右键-插入-图片</font> 小括号 <code>()</code> 中填写图片链接就可以；另一种就是本地图片了，本地图片需要按以下步骤进行：</p>
+<ul>
+<li>
+<p>初次导入需下载配置图片上传插件：</p>
+<blockquote>
+<p>a、将主配置文件 _config.yml 中的 <code>post_asset_folder: false</code> 改为  <code>post_asset_folder: true</code></p>
+<p>b、在 git 中执行 <code>npm install https://github.com/CodeFalling/hexo-asset-image -- save</code> 以安装插件</p>
+</blockquote>
+</li>
+<li>
+<p>插件配置好后添加图片需要两个步骤：</p>
+<blockquote>
+<p>a、把图片导入 <code>source/_posts/***</code> 文件夹中（ ***为与博文同名的文件夹 ）如果没有就手动创建。</p>
+<p>b、依次点击 <font color="CC00FF">右键-插入-图片</font> 小括号 <code>()</code> 中填写 <code>图片名字.图片格式</code> (  由于是博客的插件，Typora无法识别这个图片，不过没关系，上传上去是可以用的 )</p>
+</blockquote>
+</li>
+</ul>
+<p>        文字的话设置字体、颜色、大小、背景当然也是必要的，以下代码和样式便可以实现这一功能（ 选取颜色代码可在 <a href="/2019/11/22/%E5%B7%A5%E5%85%B7%EF%BC%9A%E9%A2%9C%E8%89%B2%E5%90%8D%E5%88%97%E8%A1%A8/" title="工具：颜色名列表">工具：颜色名列表</a> 界面）</p>
 <ul>
 <li>代码</li>
 </ul>
-<figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">font</span> <span class="attr">face</span>=<span class="string">"微软雅黑"</span>&gt;</span>我是微软雅黑<span class="tag">&lt;/<span class="name">font</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">font</span> <span class="attr">face</span>=<span class="string">"STCAIYUN"</span>&gt;</span>我是华文彩云<span class="tag">&lt;/<span class="name">font</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">font</span> <span class="attr">color</span>=<span class="string">red</span>&gt;</span>我是红色<span class="tag">&lt;/<span class="name">font</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">font</span> <span class="attr">size</span>=<span class="string">7</span>&gt;</span>我是7尺寸<span class="tag">&lt;/<span class="name">font</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">font</span> <span class="attr">face</span>=<span class="string">"黑体"</span> <span class="attr">color</span>=<span class="string">green</span> <span class="attr">size</span>=<span class="string">5</span>&gt;</span>我是黑体，绿色，尺寸为5<span class="tag">&lt;/<span class="name">font</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">table</span>&gt;</span><span class="tag">&lt;<span class="name">tr</span>&gt;</span><span class="tag">&lt;<span class="name">td</span> <span class="attr">bgcolor</span>=<span class="string">yellow</span>&gt;</span>我有背景颜色<span class="tag">&lt;/<span class="name">td</span>&gt;</span><span class="tag">&lt;/<span class="name">tr</span>&gt;</span><span class="tag">&lt;/<span class="name">table</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">img</span> <span class="attr">src</span>=<span class="string">"http://pic11.photophoto.cn/20090626/0036036341009653_b.jpg"</span> <span class="attr">width</span>=<span class="string">"20%"</span> <span class="attr">height</span>=<span class="string">"20%"</span>&gt;</span></span><br></pre></td></tr></table></figure>
+<figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">`我是代码块字`</span><br><span class="line">~~我是删除线子~~</span><br><span class="line">*我手机斜体字*</span><br><span class="line">**我是粗体字**</span><br><span class="line">***我手机斜粗体字***</span><br><span class="line"><span class="tag">&lt;<span class="name">font</span> <span class="attr">face</span>=<span class="string">"STCAIYUN"</span>&gt;</span>我是华文彩云字体<span class="tag">&lt;/<span class="name">font</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">font</span> <span class="attr">color</span>=<span class="string">red</span>&gt;</span>我是红色<span class="tag">&lt;/<span class="name">font</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">font</span> <span class="attr">size</span>=<span class="string">7</span>&gt;</span>我是7尺寸<span class="tag">&lt;/<span class="name">font</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">table</span>&gt;</span><span class="tag">&lt;<span class="name">tr</span>&gt;</span><span class="tag">&lt;<span class="name">td</span> <span class="attr">bgcolor</span>=<span class="string">yellow</span>&gt;</span>我有背景颜色<span class="tag">&lt;/<span class="name">td</span>&gt;</span><span class="tag">&lt;/<span class="name">tr</span>&gt;</span><span class="tag">&lt;/<span class="name">table</span>&gt;</span></span><br></pre></td></tr></table></figure>
 <ul>
 <li>样式</li>
 </ul>
 <blockquote>
-<p><font face="微软雅黑">我是微软雅黑</font><br>
-<font face="STCAIYUN">我是华文彩云</font><br>
+<p><code>我是代码块字</code></p>
+<p><s>我是删除线子</s></p>
+<p><em>我手机斜体字</em></p>
+<p><strong>我是粗体字</strong></p>
+<p><strong><em>我手机斜粗体字</em></strong></p>
+<p><font face="STCAIYUN">我是华文彩云字体</font><br>
 <font color="red">我是红色</font><br>
-<font size="7">我是7尺寸</font><br>
-<font face="黑体" color="green" size="5">我是黑体，绿色，尺寸为5</font></p>
+<font size="7">我是7尺寸</font></p>
 <table><tr><td bgcolor="yellow">我有背景颜色</td></tr></table>
-<img src="http://pic11.photophoto.cn/20090626/0036036341009653_b.jpg" width="20%" height="20%">
 </blockquote>
+<p>        以下分别设置图片的比例、大小：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">&lt;img src=&quot;img1.jpg&quot; width=&quot;20%&quot; height=&quot;20%&quot;&gt;</span><br><span class="line">&lt;img src=img src=&quot;img1.jpg&quot; width=&quot;15&quot; height=&quot;20&quot; &gt;</span><br></pre></td></tr></table></figure>
+<blockquote>
+ <img src="/2019/11/21/%E5%B0%8F%E7%99%BD%E4%B9%9F%E4%BC%9A%E7%9A%84%E5%8D%9A%E5%AE%A2%E5%88%9B%E5%BB%BA%E4%B9%8B%E5%86%99%E4%BD%9C%E6%8A%80%E5%B7%A7%E7%AF%87/img1.jpg" width="20%" height="20%">
+<img src="/2019/11/21/%E5%B0%8F%E7%99%BD%E4%B9%9F%E4%BC%9A%E7%9A%84%E5%8D%9A%E5%AE%A2%E5%88%9B%E5%BB%BA%E4%B9%8B%E5%86%99%E4%BD%9C%E6%8A%80%E5%B7%A7%E7%AF%87/img1.jpg" width="100" height="200">
+</blockquote>
+<h3 id="3-区域">3、区域</h3>
+<h4 id="a-表格">a、表格</h4>
+<h5 id="使用：">使用：</h5>
+<p>        依次点击 <font color="CC00FF">右键-插入-表格</font> 填入行、列得到表格。右键或右上角可以操作、删除表格。左上角第一个调整表格大小、第二个设置对齐方式</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">左对齐</th>
+<th style="text-align:center">居中</th>
+<th style="text-align:right">右对齐</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:center"></td>
+<td style="text-align:right"></td>
+</tr>
+</tbody>
+</table>
+<h4 id="b-代码块">b、代码块</h4>
+<h5 id="使用：-v2">使用：</h5>
+<p>        依次点击 <font color="CC00FF">右键-插入-代码块</font> 填入行、列得到代码块。</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line"></span><br></pre></td></tr></table></figure>
+<h4 id="c-公式块">c、公式块</h4>
+<h5 id="使用：-v3">使用：</h5>
+<p>        依次点击 <font color="CC00FF">右键-插入-公式块</font> 填入行、列得到公式块。<br>
+$$<br>
+a+b=c<br>
+$$</p>
+<h3 id="4-其他插件">4、其他插件</h3>
+<h4 id="a-链接">a、链接</h4>
+<ul>
+<li>网页链接</li>
+<li>链接到你本地的其他文章</li>
+</ul>
+<h4 id="b-markdown-it插件">b、markdown-it插件</h4>
+<p><code>hexo-renderer-markdown-it</code> 是一款用于 Markdown 解析和渲染的插件。( <a href="https://www.jianshu.com/p/588ab3d22eb8" target="_blank" rel="noopener">参考链接</a> )</p>
+<ul>
+<li>用于替换 Hexo 默认自带的 Markdown 渲染器。</li>
+<li>提供了更丰富的 Markdown 解析和渲染。</li>
+</ul>
+<h5 id="安装：">安装：</h5>
+<blockquote>
+<p>1.卸载 Hexo 默认自带的 Markdown 渲染器</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ npm un hexo-renderer-marked --save</span><br></pre></td></tr></table></figure>
+<p>2.安装 <code>hexo-renderer-markdown-it</code> 插件</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ npm i hexo-renderer-markdown-it --save</span><br></pre></td></tr></table></figure>
+</blockquote>
+<h5 id="配置：">配置：</h5>
+<p>        在 <code>_config.yml</code> 中添加以下代码：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br></pre></td><td class="code"><pre><span class="line"># Markdown-it config</span><br><span class="line">markdown:</span><br><span class="line">  render:</span><br><span class="line">    html: true</span><br><span class="line">    xhtmlOut: false</span><br><span class="line">    breaks: true</span><br><span class="line">    linkify: true</span><br><span class="line">    typographer: true</span><br><span class="line">    quotes: &apos;“”‘’&apos;</span><br><span class="line">  plugins:</span><br><span class="line">    - markdown-it-abbr</span><br><span class="line">    - markdown-it-footnote</span><br><span class="line">    - markdown-it-ins</span><br><span class="line">    - markdown-it-sub</span><br><span class="line">    - markdown-it-sup</span><br><span class="line">  anchors:</span><br><span class="line">    level: 2</span><br><span class="line">    collisionSuffix: &apos;v&apos;</span><br><span class="line">    permalink: false</span><br><span class="line">    permalinkClass: none-anchor</span><br><span class="line">    permalinkSymbol: ¶</span><br></pre></td></tr></table></figure>
+<h5 id="使用：-v4">使用：</h5>
+<p><code>hexo-renderer-markdown-it</code> 默认集成5个 <code>markdown-it</code> 插件</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># Markdown-it config</span></span><br><span class="line">markdown:</span><br><span class="line">  plugins:</span><br><span class="line">    - markdown-it-abbr</span><br><span class="line">    - markdown-it-footnote</span><br><span class="line">    - markdown-it-ins</span><br><span class="line">    - markdown-it-sub</span><br><span class="line">    - markdown-it-sup</span><br></pre></td></tr></table></figure>
+<ul>
+<li>markdown-it-abbr：缩写插件</li>
+</ul>
+<figure class="highlight csharp"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">*[HTML]: Hyper Text Markup Language</span><br><span class="line">*[W3C]:  World Wide Web Consortium</span><br><span class="line"></span><br><span class="line">The HTML specification</span><br><span class="line"><span class="keyword">is</span> maintained <span class="keyword">by</span> the W3C.</span><br></pre></td></tr></table></figure>
+<ul>
+<li>markdown-it-footnote：脚注插件</li>
+</ul>
+<figure class="highlight cpp"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">basic footnote[^<span class="number">1</span>]</span><br><span class="line">here is an <span class="keyword">inline</span> footnote[^<span class="number">2</span>](<span class="keyword">inline</span> footnote)</span><br><span class="line"><span class="keyword">and</span> another one[^<span class="number">3</span>]</span><br><span class="line"><span class="keyword">and</span> another one[^<span class="number">4</span>]</span><br><span class="line"></span><br><span class="line">[^<span class="number">1</span>]: basic footnote content</span><br><span class="line">[^<span class="number">3</span>]: paragraph</span><br><span class="line">footnote</span><br><span class="line">content</span><br><span class="line">[^<span class="number">4</span>]: footnote content with some [markdown](https:<span class="comment">//en.wikipedia.org/wiki/Markdown)</span></span><br></pre></td></tr></table></figure>
+<ul>
+<li>markdown-it-ins：插入插件（下划线插件）</li>
+</ul>
+<figure class="highlight jsx"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">++inserted++ =&gt; <span class="xml"><span class="tag">&lt;<span class="name">ins</span>&gt;</span>inserted<span class="tag">&lt;/<span class="name">ins</span>&gt;</span></span></span><br></pre></td></tr></table></figure>
+<ul>
+<li>markdown-it-sub：下标插件</li>
+</ul>
+<figure class="highlight xml"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">H~2~0 =&gt; H<span class="tag">&lt;<span class="name">sub</span>&gt;</span>2<span class="tag">&lt;/<span class="name">sub</span>&gt;</span>O</span><br></pre></td></tr></table></figure>
+<ul>
+<li>markdown-it-sup：上标插件</li>
+</ul>
+<figure class="highlight xml"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">29^th^ =&gt; 29<span class="tag">&lt;<span class="name">sup</span>&gt;</span>th<span class="tag">&lt;/<span class="name">sup</span>&gt;</span></span><br></pre></td></tr></table></figure>
+<h4 id="c-aplayer-音频播放器">c、Aplayer 音频播放器</h4>
+<h5 id="安装：-v2">安装：</h5>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ npm install hexo-tag-aplayer --save</span><br></pre></td></tr></table></figure>
+<h5 id="使用：-v5">使用：</h5>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&#123;% aplayer title author url [picture_url, narrow, autoplay, width:xxx, lrc:xxx] %&#125;</span><br></pre></td></tr></table></figure>
+<ul>
+<li>title: 曲目标题</li>
+<li>author: 曲目作者</li>
+<li>url: 音乐文件 URL 地址（可选上传的本地资源，与上传图片类似）</li>
+<li>picture_url: (可选) 音乐对应的图片地址（可选上传的本地资源，与上传图片类似）</li>
+<li>narrow: （可选）播放器袖珍风格</li>
+<li>autoplay: (可选) 自动播放，移动端浏览器暂时不支持此功能</li>
+<li>width:xxx: (可选) 播放器宽度 (默认: 100%)</li>
+<li>lrc:xxx: （可选）歌词文件 URL 地址（可选上传的本地资源，与上传图片类似）</li>
+</ul>
+<h5 id="效果：">效果：</h5>
+<h4 id="d-dpalyer-视频播放器">d、Dpalyer 视频播放器</h4>
+<h5 id="安装：-v3">安装：</h5>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ npm install hexo-tag-dplayer --save</span><br></pre></td></tr></table></figure>
+<h5 id="使用：-v6">使用：</h5>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&#123;% dplayer &quot;url=video-url&quot; &quot;pic=image-url&quot; ... [&quot;key=value&quot;] %&#125;</span><br></pre></td></tr></table></figure>
+<ul>
+<li>播放器
+<ul>
+<li>autoplay：是否开启视频自动播放，默认为 <code>fasle</code></li>
+<li>loop：是否开启视频循环播放，默认为 <code>false</code></li>
+<li>screenshot：是否开启截图，默认为 <code>false</code></li>
+<li>mutex：是否禁止多个播放器同时播放，默认为 <code>true</code></li>
+<li>dmunlimited：是否开启海量弹幕模式，默认为 <code>false</code></li>
+<li>preload：预加载模式，可选 <code>note</code> <code>metadata</code> <code>auto</code></li>
+<li>theme：主题色</li>
+<li>lang：语言，可选 <code>en</code> <code>zh-cn</code> <code>zh-tw</code></li>
+<li>logo：左上角的 Logo</li>
+<li>volume：默认音量，默认为 0.7</li>
+<li>width：播放器宽度</li>
+<li>height：播放器高度</li>
+</ul>
+</li>
+<li>视频
+<ul>
+<li>url：视频链接</li>
+<li>pic：视频封面</li>
+<li>thumbnails：视频缩略图，可以使用 <a href="https://github.com/MoePlayer/DPlayer-thumbnails" target="_blank" rel="noopener">DPlayer-thumbnails</a> 生成</li>
+<li>vidtype：视频类型，可选 <code>auto</code> <code>hls</code> <code>flv</code> <code>dash</code> 或其他自定义类型</li>
+</ul>
+</li>
+<li>字幕
+<ul>
+<li>suburl：字幕链接</li>
+<li>subtype：字幕类型，可选 <code>webvtt</code> <code>ass</code>，目前只支持 <code>webvtt</code></li>
+<li>subbottom：字幕距离播放器底部的距离，如 <code>10px</code> <code>10%</code></li>
+<li>subcolor：字幕颜色</li>
+</ul>
+</li>
+<li>弹幕
+<ul>
+<li>id：弹幕 id</li>
+<li>api：弹幕 api</li>
+<li>token：弹幕后端验证 token</li>
+<li>addition：额外外挂弹幕</li>
+<li>dmuser：弹幕用户名</li>
+<li>maximum：弹幕最大数量</li>
+</ul>
+</li>
+</ul>
+<h5 id="效果：-v2">效果：</h5>
 <div id="footnotes"><hr><div id="footnotelist"><ol style="list-style:none; padding-left: 0;"><li id="fn:1"><span style="display: inline-block; vertical-align: top; padding-right: 10px;">1.</span><span style="display: inline-block; vertical-align: top;">$ hexo clean , $ hexo g , $ hexo d</span><a href="#fnref:1" rev="footnote"> ↩</a></li><li id="fn:2"><span style="display: inline-block; vertical-align: top; padding-right: 10px;">2.</span><span style="display: inline-block; vertical-align: top;">$ hexo clean , $ hexo g</span><a href="#fnref:2" rev="footnote"> ↩</a></li></ol></div></div>
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://yoursite.com/2019/11/21/%E5%B0%8F%E7%99%BD%E4%B9%9F%E4%BC%9A%E7%9A%84%E5%8D%9A%E5%AE%A2%E5%88%9B%E5%BB%BA%E4%B9%8B%E5%86%99%E4%BD%9C%E6%8A%80%E5%B7%A7%E7%AF%87/" data-id="ck39639vl0004dwlfhzm85cqa"
+      <a data-url="http://yoursite.com/2019/11/21/%E5%B0%8F%E7%99%BD%E4%B9%9F%E4%BC%9A%E7%9A%84%E5%8D%9A%E5%AE%A2%E5%88%9B%E5%BB%BA%E4%B9%8B%E5%86%99%E4%BD%9C%E6%8A%80%E5%B7%A7%E7%AF%87/" data-id="ck39cxc4l0004rclf3vug41n1"
          class="article-share-link">分享</a>
       
   <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/%E4%B8%AA%E6%80%A7/" rel="tag">个性</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/%E5%8D%9A%E5%AE%A2/" rel="tag">博客</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/%E5%BC%BA%E8%BF%AB%E7%97%87/" rel="tag">强迫症</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/%E8%81%94%E7%BD%91/" rel="tag">联网</a></li></ul>
@@ -316,6 +483,15 @@
   
     
   <nav class="article-nav">
+    
+      <a href="/2019/11/22/%E5%B7%A5%E5%85%B7%EF%BC%9A%E9%A2%9C%E8%89%B2%E5%90%8D%E5%88%97%E8%A1%A8/" class="article-nav-link">
+        <strong class="article-nav-caption">前一篇</strong>
+        <div class="article-nav-title">
+          
+            工具：颜色名列表
+          
+        </div>
+      </a>
     
     
       <a href="/2019/11/21/%E5%B0%8F%E7%99%BD%E4%B9%9F%E4%BC%9A%E7%9A%84%E5%8D%9A%E5%AE%A2%E5%88%9B%E5%BB%BA%E4%B9%8B%E4%B8%BB%E9%A2%98%E7%BE%8E%E5%8C%96%E7%AF%87/" class="article-nav-link">
